@@ -52,7 +52,7 @@
 
 ---
 
-### 🌐 Platforms
+### 🌐 Platforms & Activity
 
 <p align="center">
   <img src="https://img.shields.io/badge/TryHackMe-Active-2dfc5c?style=for-the-badge&logo=tryhackme&logoColor=black" />
@@ -60,7 +60,12 @@
 
 ---
 
-### 📈 GitHub Metrics & Streak
+### 📊 GitHub Analytics & Metrics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishnanks347-maker&theme=radical&hide_border=true&layout=compact&langs_count=7" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ananthakrishnanks347-maker&theme=radical&hide_border=true&date_format=j%20M%20Y" />
