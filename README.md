@@ -7,6 +7,9 @@
   <a href="https://github.com/ananthakrishnanks347-maker">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://tryhackme.com">
+    <img src="https://img.shields.io/badge/TryHackMe-1f2937?style=for-the-badge&logo=tryhackme&logoColor=#2dfc5c" />
+  </a>
 </p>
 
 ---
@@ -21,14 +24,6 @@
 
 ---
 
-### 💣 Retro Minesweeper
-
-<p align="center">
-  <img src="https://github-readme-minesweeper.vercel.app/api?theme=radical" alt="Minesweeper" />
-</p>
-
----
-
 ### 👨‍💻 About Me
 
 - 🔭 Currently building: hands-on labs and writeups documenting my learning process
@@ -37,24 +32,31 @@
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack & Tools
 
-![Bash Script](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Metrics & Streak
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishnanks347-maker&theme=tokyonight&hide_border=true&layout=compact&langs_count=7" />
+  <img src="https://streak-stats.demolab.com/?user=ananthakrishnanks347-maker&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" />
 </p>
 
+---
+
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ananthakrishnanks347-maker&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ananthakrishnanks347-maker&theme=tokyonight&no-frame=true&row=1&column=4" />
 </p>
 
 ---
