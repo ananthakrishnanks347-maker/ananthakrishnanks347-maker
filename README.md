@@ -1,56 +1,42 @@
-# Hi, I'm Ananthakrishnan K S 👋
+<h1 align="center">Hi there, I'm Ananthakrishnan K S 👋</h1>
 
 <p align="center">
-  <!-- Upload `profile-banner.png` to the repo root to show a custom banner -->
-  <img src="./profile-banner.png" alt="banner" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=ananthakrishnan347&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </p>
 
-## About me
-
-- 🔭 I’m currently working on: projects in Python and security tooling
-- 🌱 I’m learning: advanced cybersecurity techniques and secure coding in Python
-- 💬 Ask me about: Python, cybersecurity, automation, penetration testing
-
-## Current status
-
-- 🔭 Working on: Security-Tool-A
-- 🌱 Learning: Advanced cybersecurity & secure Python
-- 💬 Available for: collaboration, bug bounties, automation
-
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=default" />
-</p>
-
-## Skills
-
-- Languages: Python
-- Domains: Cybersecurity, vulnerability research, automation, scripting, secure coding
-
-## Connect with me
-
-<p>
-  <a href="https://www.linkedin.com/in/ananthakrishnan-ks-" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ananthakrishnanks347-maker" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-## Featured projects
-
-- [Security-Tool-A](https://github.com/ananthakrishnanks347-maker/security-tool-a) — short description
-- [Python-Scripts](https://github.com/ananthakrishnanks347-maker/python-scripts) — automation and tooling
-
-## Try the Snake game
-
-Play a lightweight browser-based Snake game included in the repo.
-
-- Open index.html in your browser to play locally.
-- Play online: enable GitHub Pages for this repository (repository Settings → Pages) and serve from the branch/root where index.html lives. Once enabled, the URL will typically be:
-  - https://ananthakrishnanks347-maker.github.io/ananthakrishnanks347-maker/ (replace with the correct Pages domain if different)
+<h3 align="center">🛡️ Cybersecurity Enthusiast | SIEM & Linux Systems Specialist</h3>
 
 ---
 
-Made with ❤️
+## 👨‍💻 About Me
+
+* 🌱 Currently building hands-on labs focusing on **SIEM deployment (Wazuh)**, system configurations, and security monitoring.
+* ⚡ Deeply interested in **Linux Systems Administration**, automation scripts, and digital forensics.
+* 💬 Ask me about **Wazuh, Linux, Bash Scripting, and WSL management**.
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.co/api?username=ananthakrishnan347&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="180px" src="https://github-readme-stats.vercel.co/api/top-langs/?username=ananthakrishnan347&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthakrishnan347&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
