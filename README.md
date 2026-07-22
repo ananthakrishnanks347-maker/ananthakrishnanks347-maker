@@ -11,6 +11,16 @@
 - 🌱 I’m learning: advanced cybersecurity techniques and secure coding in Python
 - 💬 Ask me about: Python, cybersecurity, automation, penetration testing
 
+## Status
+
+- 🔭 Current: Working on Security-Tool-A
+- 🌱 Learning: Advanced cybersecurity & secure Python
+- 💬 Available for: collaboration, bug bounties, automation
+
+<p align="center">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=default" />
+</p>
+
 ## Skills
 
 - Languages: Python
@@ -32,6 +42,13 @@
 
 - [Security-Tool-A](https://github.com/ananthakrishnanks347-maker/security-tool-a) — short description
 - [Python-Scripts](https://github.com/ananthakrishnanks347-maker/python-scripts) — automation and tooling
+
+## Try the Snake game
+
+Play a lightweight browser-based Snake game I added to the repo.
+
+- Open index.html in your browser to play locally.
+- (Optional) Enable GitHub Pages for this repository to play directly from the web.
 
 ---
 
