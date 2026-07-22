@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Ananthakrishnanks347-maker 👋</h1>
 
-<h3 align="left">Aspiring Penetration Tester | Red Team Enthusiast</h3>
-<p align="left">Learning offensive security hands-on — currently building skills in network exploitation, privilege escalation, and reporting. Documenting my journey as I go.</p>
+<h3 align="left">Offensive Security Practitioner | Cyber Security Enthusiast</h3>
+<p align="left">Dedicated to understanding adversary tactics, techniques, and procedures through hands-on labs and practical exploit development. Passionate about uncovering security flaws, strengthening network defenses, and documenting technical research.</p>
 
 <p align="left">
   <a href="https://github.com/ananthakrishnanks347-maker">
@@ -11,12 +11,10 @@
 
 ---
 
+### 💣 Retro Minesweeper
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-minesweeper.vercel.app/api?theme=radical" alt="Minesweeper" />
 </p>
 
 ---
@@ -41,12 +39,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishnanks347-maker&theme=radical&hide_border=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishnanks347-maker&theme=tokyonight&hide_border=true&layout=compact&langs_count=7" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ananthakrishnanks347-maker&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ananthakrishnanks347-maker&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
