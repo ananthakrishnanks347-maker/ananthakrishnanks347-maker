@@ -1,87 +1,52 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=50&lines=Offensive+Security+Practitioner;Red+Teaming+%26+Exploit+Dev" alt="Red Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3366FF&center=true&vCenter=true&width=600&height=50&lines=Cyber+Security+Enthusiast" alt="Blue Typing SVG" />
-</div>
-
-<h1 align="center">Hi there, I'm Ananthakrishnanks347-maker 👋</h1>
+<h1 align="center" style="font-family: monospace;">
+  <span style="display:inline-block; animation: dissolve 2s ease-in-out infinite alternate;">Hi there, I'm Ananthakrishnan K S 👋</span>
+</h1>
 
 <p align="center">
-  <a href="https://github.com/ananthakrishnanks347-maker">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ananthakrishnan-ks-">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://tryhackme.com">
-    <img src="https://img.shields.io/badge/TryHackMe-1f2937?style=for-the-badge&logo=tryhackme&logoColor=#2dfc5c" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ananthakrishnan347&style=flat-square&color=2ea043" alt="Profile Views" />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE"><img src="https://img.shields.io/badge/LinkedIn-0e4429?style=flat-square&logo=linkedin&logoColor=2ea043" alt="LinkedIn Badge"/></a>
+</p>
+
+<h3 align="center" style="color: #2ea043;">🛡️ Cybersecurity Enthusiast | SIEM & Linux Systems Specialist</h3>
+
+---
+
+## 👨‍💻 About Me
+
+* 🌱 Currently building hands-on labs focusing on **SIEM deployment (Wazuh)**, system configurations, and security monitoring.
+* ⚡ Deeply interested in **Linux Systems Administration**, automation scripts, and digital forensics.
+* 💬 Ask me about **Wazuh, Linux, Bash Scripting, and WSL management**.
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=2ea043&color=161b22" alt="Linux" />
+  <img src="https://img.shields.io/badge/Wazuh-0d1117?style=for-the-badge&logo=wazuh&logoColor=2ea043&color=161b22" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=2ea043&color=161b22" alt="Bash" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=2ea043&color=161b22" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=2ea043&color=161b22" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=2ea043&color=161b22" alt="GitHub" />
 </p>
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid wave animation" src="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-### 🛡️ About Me
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li>🔭 <b>Currently building:</b> Comprehensive hands-on offensive labs, security writeups, and automation scripts documenting my technical learning progress.</li>
-        <li>🌱 <b>Currently exploring:</b> Network exploitation methodologies, privilege escalation vectors, Active Directory assessment, and robust defense evasion techniques.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li>💬 <b>Ask me about:</b> Bash scripting workflows, Linux system administration, custom tooling, and automated CI/CD pipeline setups via GitHub Actions.</li>
-        <li>🎯 <b>Long-term goal:</b> To master advanced penetration testing and red teaming methodologies to help organizations identify and remediate critical security vulnerabilities.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 💻 Core Tech Stack & Security Tools
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-1D1D1D?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img height="180px" src="https://github-readme-stats.vercel.co/api?username=ananthakrishnan347&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&icon_color=2ea043&text_color=2ea043" alt="GitHub Stats" />
+  <img height="180px" src="https://github-readme-stats.vercel.co/api/top-langs/?username=ananthakrishnan347&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&text_color=2ea043" alt="Top Languages" />
 </p>
-
----
-
-### 🌐 Certifications & Platforms
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-Top%2%25-2dfc5c?style=for-the-badge&logo=tryhackme&logoColor=black" />
-  <img src="https://img.shields.io/badge/HackTheBox-Hacker-111111?style=for-the-badge&logo=hackthebox&logoColor=#9feaf9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthakrishnan347&theme=gotham&hide_border=true&background=0d1117&ring=2ea043&fire=2ea043&currStreakNum=2ea043" alt="GitHub Streak" />
 </p>
 
----
-
-### 📈 GitHub Metrics & Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ananthakrishnanks347-maker&theme=radical&hide_border=true&date_format=j%20M%20Y" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ananthakrishnanks347-maker&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
+<style>
+@keyframes dissolve {
+  0% { opacity: 0.2; filter: blur(4px); }
+  50% { opacity: 1; filter: blur(0px); }
+  100% { opacity: 0.2; filter: blur(4px); }
+}
+</style>
