@@ -1,11 +1,15 @@
-<h1 align="left">Hi there, I'm Ananthakrishnanks347-maker 👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=50&lines=Offensive+Security+Practitioner;Cyber+Security+Enthusiast;Red+Teaming+%26+Exploit+Dev" alt="Typing SVG" />
+</div>
 
-<h3 align="left">Offensive Security Practitioner | Cyber Security Enthusiast</h3>
-<p align="left">Dedicated to understanding adversary tactics, techniques, and procedures through hands-on labs and practical exploit development. Passionate about uncovering security flaws, strengthening network defenses, and documenting technical research.</p>
+<h1 align="center">Hi there, I'm Ananthakrishnanks347-maker 👋</h1>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ananthakrishnanks347-maker">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ananthakrishnan-ks-">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://tryhackme.com">
     <img src="https://img.shields.io/badge/TryHackMe-1f2937?style=for-the-badge&logo=tryhackme&logoColor=#2dfc5c" />
@@ -24,17 +28,30 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🛡️ About Me
 
-- 🔭 Currently building: hands-on labs and writeups documenting my learning process
-- 🌱 Currently learning: network exploitation, privilege escalation, Active Directory attacks
-- 💬 Ask me about: Bash scripting, Linux, GitHub workflows
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>🔭 <b>Currently building:</b> Comprehensive hands-on offensive labs, security writeups, and automation scripts documenting my technical learning progress.</li>
+        <li>🌱 <b>Currently exploring:</b> Network exploitation methodologies, privilege escalation vectors, Active Directory assessment, and robust defense evasion techniques.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>💬 <b>Ask me about:</b> Bash scripting workflows, Linux system administration, custom tooling, and automated CI/CD pipeline setups via GitHub Actions.</li>
+        <li>🎯 <b>Long-term goal:</b> To master advanced penetration testing and red teaming methodologies to help organizations identify and remediate critical security vulnerabilities.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💻 Tech Stack & Tools
+### 💻 Core Tech Stack & Security Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -48,15 +65,7 @@
 ### 📈 GitHub Metrics & Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ananthakrishnanks347-maker&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ananthakrishnanks347-maker&theme=tokyonight&no-frame=true&row=1&column=4" />
+  <img src="https://streak-stats.demolab.com/?user=ananthakrishnanks347-maker&theme=radical&hide_border=true&date_format=j%20M%20Y" />
 </p>
 
 ---
