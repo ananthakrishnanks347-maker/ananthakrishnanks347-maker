@@ -30,10 +30,22 @@
 
 ### 🛡️ About Me
 
-- 🔭 **Currently building:** Comprehensive hands-on offensive labs, security writeups, and automation scripts documenting my technical learning progress.
-- 🌱 **Currently exploring:** Network exploitation methodologies, privilege escalation vectors, Active Directory assessment, and robust defense evasion techniques.
-- 💬 **Ask me about:** Bash scripting workflows, Linux system administration, custom tooling, and automated CI/CD pipeline setups via GitHub Actions.
-- 🎯 **Long-term goal:** To master advanced penetration testing and red teaming methodologies to help organizations identify and remediate critical security vulnerabilities.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>🔭 <b>Currently building:</b> Comprehensive hands-on offensive labs, security writeups, and automation scripts documenting my technical learning progress.</li>
+        <li>🌱 <b>Currently exploring:</b> Network exploitation methodologies, privilege escalation vectors, Active Directory assessment, and robust defense evasion techniques.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>💬 <b>Ask me about:</b> Bash scripting workflows, Linux system administration, custom tooling, and automated CI/CD pipeline setups via GitHub Actions.</li>
+        <li>🎯 <b>Long-term goal:</b> To master advanced penetration testing and red teaming methodologies to help organizations identify and remediate critical security vulnerabilities.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -60,12 +72,7 @@
 
 ---
 
-### 📊 GitHub Analytics & Metrics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishnanks347-maker&theme=radical&hide_border=true&layout=compact&langs_count=7" />
-</p>
+### 📈 GitHub Streak & Metrics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ananthakrishnanks347-maker&theme=radical&hide_border=true&date_format=j%20M%20Y" />
