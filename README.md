@@ -1,19 +1,19 @@
 # Hi, I'm Ananthakrishnan K S 👋
 
 <p align="center">
-  <!-- Optional: upload `profile-banner.png` to the repo root to show a custom banner -->
-  <img src="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/main/profile-banner.png" alt="banner" width="100%"/>
+  <!-- Upload `profile-banner.png` to the repo root to show a custom banner -->
+  <img src="./profile-banner.png" alt="banner" width="100%"/>
 </p>
 
 ## About me
 
-- 🔭 I’m currently working on: Projects in Python and security tooling
+- 🔭 I’m currently working on: projects in Python and security tooling
 - 🌱 I’m learning: advanced cybersecurity techniques and secure coding in Python
 - 💬 Ask me about: Python, cybersecurity, automation, penetration testing
 
-## Status
+## Current status
 
-- 🔭 Current: Working on Security-Tool-A
+- 🔭 Working on: Security-Tool-A
 - 🌱 Learning: Advanced cybersecurity & secure Python
 - 💬 Available for: collaboration, bug bounties, automation
 
@@ -45,10 +45,11 @@
 
 ## Try the Snake game
 
-Play a lightweight browser-based Snake game I added to the repo.
+Play a lightweight browser-based Snake game included in the repo.
 
 - Open index.html in your browser to play locally.
-- (Optional) Enable GitHub Pages for this repository to play directly from the web.
+- Play online: enable GitHub Pages for this repository (repository Settings → Pages) and serve from the branch/root where index.html lives. Once enabled, the URL will typically be:
+  - https://ananthakrishnanks347-maker.github.io/ananthakrishnanks347-maker/ (replace with the correct Pages domain if different)
 
 ---
 
