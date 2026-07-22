@@ -79,7 +79,7 @@
 ### ⚡ GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ananthakrishnanks347-maker&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=ananthakrishnanks347-maker&theme=radical" />
 </p>
 
 ---
