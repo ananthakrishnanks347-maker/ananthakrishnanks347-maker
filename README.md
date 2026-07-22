@@ -1,10 +1,6 @@
 <div align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=50&lines=Offensive+Security+Practitioner;Red+Teaming+%26+Exploit+Dev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=50&lines=Offensive+Security+Practitioner;Red+Teaming+%26+Exploit+Dev" alt="Red Typing SVG" />
-  </a>
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3366FF&center=true&vCenter=true&width=600&height=50&lines=Cyber+Security+Enthusiast">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3366FF&center=true&vCenter=true&width=600&height=50&lines=Cyber+Security+Enthusiast" alt="Blue Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=50&lines=Offensive+Security+Practitioner;Red+Teaming+%26+Exploit+Dev" alt="Red Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3366FF&center=true&vCenter=true&width=600&height=50&lines=Cyber+Security+Enthusiast" alt="Blue Typing SVG" />
 </div>
 
 <h1 align="center">Hi there, I'm Ananthakrishnanks347-maker 👋</h1>
@@ -63,6 +59,17 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-1D1D1D?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+</p>
+
+---
+
+### 🌐 Certifications & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TryHackMe-Top%2%25-2dfc5c?style=for-the-badge&logo=tryhackme&logoColor=black" />
+  <img src="https://img.shields.io/badge/HackTheBox-Hacker-111111?style=for-the-badge&logo=hackthebox&logoColor=#9feaf9" />
 </p>
 
 ---
