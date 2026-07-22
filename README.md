@@ -64,22 +64,10 @@
 
 ---
 
-### 🌐 Platforms & Terminal Activity
+### 🌐 Platforms & Activity
 
 <p align="center">
   <img src="https://img.shields.io/badge/TryHackMe-Active-2dfc5c?style=for-the-badge&logo=tryhackme&logoColor=black" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananthakrishnanks347-maker&repo=ananthakrishnanks347-maker&theme=radical&hide_border=true" />
-</p>
-
----
-
-### ⚡ GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=ananthakrishnanks347-maker&theme=radical" />
 </p>
 
 ---
