@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishnanks347-maker&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <h1 align="left">Hi there, I'm Ananthakrishnanks347-maker 👋</h1>
 
 <h3 align="left">Aspiring Penetration Tester | Red Team Enthusiast</h3>
@@ -13,8 +11,13 @@
 
 ---
 
-![snake gif](https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
@@ -38,12 +41,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=ananthakrishnanks347-maker&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ananthakrishnanks347-maker&theme=midnight-purple&hide_border=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishnanks347-maker&theme=radical&hide_border=true&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ananthakrishnanks347-maker&theme=midnight-purple&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ananthakrishnanks347-maker&theme=radical&hide_border=true" />
 </p>
 
 ---
