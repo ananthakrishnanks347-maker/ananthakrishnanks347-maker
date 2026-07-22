@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishnanks347-maker&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1 align="left">Hi there, I'm Ananthakrishnanks347-maker 👋</h1>
 
 <h3 align="left">Aspiring Penetration Tester | Red Team Enthusiast</h3>
