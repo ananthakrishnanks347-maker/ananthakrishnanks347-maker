@@ -61,10 +61,12 @@
 
 ## ` VISUAL STATUS BOARD `
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=transparent&hide_border=true&title_color=00ffd5&icon_color=00ffd5&text_color=d6e7ff&bg_color=00000000&rank_icon=github" />
-<img height="170" src="https://streak-stats.demolab.com?user=ananthakrishnanks347-maker&theme=transparent&hide_border=true&ring=00ffd5&fire=00ffd5&currStreakLabel=00ffd5&sideNums=d6e7ff&currStreakNum=d6e7ff&sideLabels=d6e7ff&dates=8aa4c8" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=transparent&hide_border=true&title_color=00ffd5&icon_color=00ffd5&text_color=d6e7ff&bg_color=00000000" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ananthakrishnanks347-maker&theme=transparent&hide_border=true&ring=00ffd5&fire=00ffd5&currStreakLabel=00ffd5&sideNums=d6e7ff&currStreakNum=d6e7ff&sideLabels=d6e7ff&dates=8aa4c8" width="48%" />
+</p>
 
-<br><br>
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananthakrishnanks347-maker&theme=react-dark&bg_color=030712&color=00ffd5&line=00ffd5&point=ffffff&hide_border=true" width="95%" />
 
@@ -76,7 +78,7 @@
 
 ## ` TROPHY DECK `
 
-<img src="https://github-profile-trophy.vercel.app/?username=ananthakrishnanks347-maker&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=ananthakrishnanks347-maker&theme=algolia&no-frame=true&no-bg=true&row=1&column=4&margin-w=8&margin-h=8" width="100%" />
 
 </div>
 
@@ -86,11 +88,11 @@
 
 ## ` TOOLCHAIN MATRIX `
 
-<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,html,css&theme=dark&perline=8" />
-</a>
+</p>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Nmap-08111f?style=for-the-badge&logoColor=00ffd5&color=08111f" />
 <img src="https://img.shields.io/badge/Wireshark-08111f?style=for-the-badge&logo=wireshark&logoColor=45c7ff&color=08111f" />
@@ -107,39 +109,8 @@
 ## ` CURRENT OBJECTIVES `
 
 ```text
- Build practical Python tools for recon and workflow automation[4]
- Improve confidence in network and web exploitation labs[5]
- Document learning through cleaner writeups and public repos[6]
- Strengthen Linux, Bash, and enumeration fundamentals[7]
- Turn consistent practice into visible GitHub progress[8]
-```
-
-</div>
-
----
-
-<div align="center">
-
-## ` CONNECT // TRACE // COLLABORATE `
-
-<a href="https://github.com/ananthakrishnanks347-maker" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub_Profile-030712?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://tryhackme.com/p/Ananthakrishnank.s" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/TryHackMe_Profile-030712?style=for-the-badge&logo=tryhackme&logoColor=red" />
-</a>
-<a href="https://www.linkedin.com/in/ananthakrishnan-ks-/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn_Profile-030712?style=for-the-badge&logo=linkedin&logoColor=00a0dc" />
-</a>
-
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ananthakrishnanks347-maker&label=PROFILE+VIEWS&color=00ffd5&style=for-the-badge" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2a8,35:004e64,70:07111f,100:02040f&height=130&section=footer" />
-
-</div>
+  Build practical Python tools for recon and workflow automation
+  Improve confidence in network and web exploitation labs
+  Document learning through cleaner writeups and public repos
+  Strengthen Linux, Bash, and enumeration fundamentals
+  Turn consistent practice into visible GitHub progress
