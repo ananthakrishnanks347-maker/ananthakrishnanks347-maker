@@ -1,39 +1,40 @@
 <div align="center">
 
-<!-- Deep Cyber-Grid Floating Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,12,24,35&height=180&section=header&text=Ananthakrishnan%20K%20S&fontSize=32&fontColor=FF2A6D&fontAlignY=35&desc=Redteam%20Hacker%20Academy%20%7C%20Offensive%20Security&descAlignY=60&descSize=14&descColor=05D9E8&animation=fadeIn" />
+<!-- Cyber-Terminal Header Animation -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4,12,24&height=190&section=header&text=ANANTHAKRISHNAN%20K%20S&fontSize=34&fontColor=00FF66&fontAlignY=32&desc=%5B%20REDTEAM%20HACKER%20ACADEMY%20%7C%20OFFENSIVE%20SECURITY%20%5D&descAlignY=62&descSize=13&descColor=00E5FF&animation=fadeIn" />
 
-<!-- Holographic Matrix Stream -->
-<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=15&duration=3000&pause=1000&color=05D9E8&background=0b0c10&center=true&vCenter=true&width=720&height=75&lines=Root%40Ananthakrishnan%3A~%23+Initializing+Defense-Evasion+Protocols;Target%3A+Vulnerability+Assessment+%26+Penetration+Testing;Tools%3A+Wazuh+SIEM+%7C+Nmap+%7C+Burp+Suite+%7C+Metasploit;Status%3A+System+Fully+Operational" />
+<!-- Live Cyber-Status Terminal Stream -->
+<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=15&duration=3000&pause=1000&color=00FF66&background=04080F&center=true&vCenter=true&width=760&height=75&lines=root%45kali%3A~%23+netstat+-tulnp+%7C+grep+LISTEN;Target%3A+Advanced+Penetration+Testing+%26+SysAdmin;Tools%3A+Wazuh+SIEM+%7C+Nmap+%7C+Burp+Suite+%7C+Metasploit;Status%3A+SECURE+UPLINK+ESTABLISHED+%E2%9A%A1" />
 
 <br>
 
-<!-- Cyber-Glitch Social Bar -->
+<!-- Cyber-Glitch Animated Social Matrix -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ananthakrishnan-k-s" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-FF2A6D?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ananthakrishnanks347-maker" target="_blank"><img src="https://img.shields.io/badge/GITHUB-0b0c10?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/Ananthakrishnank.s" target="_blank"><img src="https://img.shields.io/badge/TRYHACKME-05D9E8?style=for-the-badge&logo=tryhackme&logoColor=black" /></a>
-  <a href="https://profile.hackthebox.com" target="_blank"><img src="https://img.shields.io/badge/HACKTHEBOX-FF2A6D?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/ananthakrishnan-k-s" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-00FF66?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="https://github.com/ananthakrishnanks347-maker" target="_blank"><img src="https://img.shields.io/badge/GITHUB-04080F?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/Ananthakrishnank.s" target="_blank"><img src="https://img.shields.io/badge/TRYHACKME-00E5FF?style=for-the-badge&logo=tryhackme&logoColor=black" /></a>
+  <a href="https://profile.hackthebox.com" target="_blank"><img src="https://img.shields.io/badge/HACKTHEBOX-FF0055?style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
 </p>
 
 <br>
 
-<!-- Neon Activity Graph -->
-<img src="https://ghchart.rshah.org/ff2a6d/ananthakrishnanks347-maker" alt="GitHub Contribution Matrix" />
+<!-- Animated Contribution Graph (Snake Edition) -->
+<img src="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/output/github-contribution-grid-snake-dark.svg" width="92%" />
 
 <br><br>
 
 ---
 
-## 💻 SYSTEM // ARCHITECTURE
+## ⚡ CORE_SYSTEM // TELEMETRY
 
 <table width="100%" style="border: none;">
 <tr>
 <td width="50%" valign="top">
 
-```markdown
-### ⚡ [ OPERATIONAL_CORE ]
-* **Name:** Ananthakrishnan K S
-* **Affiliation:** Redteam Hacker Academy, Kochi
-* **Discipline:** Cybersecurity & SysAdmin
-* **Philosophy:** "Break the grid to secure the future."
+```yaml
+# OPERATOR_PROFILE
+operator: Ananthakrishnan K S
+affiliation: Redteam Hacker Academy, Kochi
+specialization: Offensive Security & NetSec
+focus: Penetration Testing & Linux Admin
+philosophy: "Deconstruct the system to master defense."
