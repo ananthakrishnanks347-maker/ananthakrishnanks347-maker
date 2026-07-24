@@ -6,13 +6,13 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/ananthakrishnan-ks-/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/ananthakrishnan-ks-/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-08111f?style=for-the-badge&logo=linkedin&logoColor=00ffd5&labelColor=030712" />
 </a>
-<a href="https://tryhackme.com/p/Ananthakrishnank.s" target="_blank" rel="noopener noreferrer">
+<a href="https://tryhackme.com/p/Ananthakrishnank.s" target="_blank">
   <img src="https://img.shields.io/badge/TRYHACKME-08111f?style=for-the-badge&logo=tryhackme&logoColor=ff4d6d&labelColor=030712" />
 </a>
-<a href="https://github.com/ananthakrishnanks347-maker" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/ananthakrishnanks347-maker" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-08111f?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=030712" />
 </a>
 
@@ -35,10 +35,10 @@
 <td width="50%" valign="top">
 
 ### 👨‍💻 About
-- Building security scripts, automation helpers, and lab-based projects.
-- Learning offensive security through practical boxes and environments.
-- Exploring network exploitation, web testing, and privilege escalation.
-- Using Python, Bash, Linux, and Git as daily tools.
+- Building security scripts, automation helpers, and lab-based projects.  
+- Learning offensive security through practical boxes and environments.  
+- Exploring network exploitation, web testing, and privilege escalation.  
+- Using Python, Bash, Linux, and Git as daily tools.  
 
 </td>
 <td width="50%" valign="top">
@@ -61,23 +61,33 @@
 
 ## ` VISUAL STATUS BOARD `
 
-### 📊 Mission Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffd5&icon_color=ff4d6d&text_color=ffffff" />
+---
+
+### 📊 Mission Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffd5&icon_color=ff4d6d&text_color=ffffff" />
+</p>
 
 ---
 
-### ⚡ Contribution Heatmap
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananthakrishnanks347-maker&theme=tokyo-night&bg_color=0d1117&color=00ffd5&line=00ffd5&point=ffffff&hide_border=true" width="95%" />
+### ⚡ Contribution Heatmap  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananthakrishnanks347-maker&theme=tokyo-night&bg_color=0d1117&color=00ffd5&line=00ffd5&point=ffffff&hide_border=true" width="95%" />
+</p>
 
 ---
 
-### 🏆 Operator Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=ananthakrishnanks347-maker&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10" />
+### 🏆 Operator Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ananthakrishnanks347-maker&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10" />
+</p>
 
 ---
 
-### 🚀 Streak Counter
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthakrishnanks347-maker&theme=radical&hide_border=true&background=0d1117&stroke=00ffd5&ring=00ffd5&fire=ff4d6d&currStreakLabel=ffffff" />
+### 🚀 Streak Counter  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthakrishnanks347-maker&theme=radical&hide_border=true&background=0d1117&stroke=00ffd5&ring=00ffd5&fire=ff4d6d&currStreakLabel=ffffff" />
+</p>
 
 </div>
 
@@ -91,7 +101,7 @@
 
 <br><br>
 
-### Core Languages & Environments
+### Core Languages & Environments  
 <img src="https://img.shields.io/badge/Python-08111f?style=for-the-badge&logo=python&logoColor=3776AB&color=08111f" />
 <img src="https://img.shields.io/badge/Bash-08111f?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25&color=08111f" />
 <img src="https://img.shields.io/badge/Linux-08111f?style=for-the-badge&logo=linux&logoColor=FCC624&color=08111f" />
@@ -100,7 +110,7 @@
 
 <br><br>
 
-### Security Tooling & Platforms
+### Security Tooling & Platforms  
 <img src="https://img.shields.io/badge/Nmap-08111f?style=for-the-badge&logoColor=00ffd5&color=08111f" />
 <img src="https://img.shields.io/badge/Wireshark-08111f?style=for-the-badge&logo=wireshark&logoColor=45c7ff&color=08111f" />
 <img src="https://img.shields.io/badge/Burp_Suite-08111f?style=for-the-badge&logo=burpsuite&logoColor=ff8b3d&color=08111f" />
@@ -115,4 +125,4 @@
 
 ## ` ACTIVE OPERATIONS DASHBOARD `
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FFD5&center=true&vCenter=true&width=980&lines=Alan+Turing:+%22Those+who+can+imagine+anything,+can+create+the+impossible.%22;Grace+Hopper:+%22The+most+dangerous+phrase+is+'We've+always+done+it+this+way.'%22;Linus+Torvalds:+%22Talk+is+cheap.+Show+me+the+code.%22;Dennis+Ritchie:+%22UNIX+is+simple.+It+just+takes+a+genius+to+understand+its+simplicity.%22;Tim+Berners-Lee:+%22The+Web+does+not+just+connect+machines,+it+connects+people.%22;Steve+Jobs:+%22Innovation+distinguishes+between+a+leader+and+a+follower.%22;Bill+Gates:+%22Your+most+unhappy
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00FFD5&center=true&vCenter=true&width=980&lines=root%40ops%3A~%23+whoami;ananthakrishnan;root%40ops%3A~%23+python3+recon.py+--mode+deep;discovering+services...;mapping+attack+surface...;testing+misconfigurations...;root%40ops%3A~%23+echo+%22learn+%2F+build+%2F+break+%2F+document%22;Alan+Turing:+%22Those+who+can+imagine+anything,+can+create+the+impossible.%22;Grace+Hopper:+%22The+most+dangerous+phrase+is+'We've+always+done+it+this+way.'%22;Linus+Torvalds:+%22Talk+is+cheap.+Show+me+the+code.%22;Dennis+Ritchie:+%22UNIX+is+simple.+It+just+t
