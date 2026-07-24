@@ -61,3 +61,91 @@ My current direction is offensive security, Linux workflows, Python automation, 
 [✓] Create cleaner GitHub presentation
 [ ] Publish more writeups and notes
 [ ] Strengthen offensive security foundations
+TOOLCHAIN MATRIX
+<div align="center">
+
+<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,html,css&theme=dark&perline=8" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Nmap-08111f?style=for-the-badge&color=08111f&logoColor=00ffd5" />
+<img src="https://img.shields.io/badge/Wireshark-08111f?style=for-the-badge&logo=wireshark&logoColor=45c7ff&color=08111f" />
+<img src="https://img.shields.io/badge/Burp_Suite-08111f?style=for-the-badge&logo=burpsuite&logoColor=ff8b3d&color=08111f" />
+<img src="https://img.shields.io/badge/Metasploit-08111f?style=for-the-badge&logo=metasploit&logoColor=57b6ff&color=08111f" />
+<img src="https://img.shields.io/badge/TryHackMe-08111f?style=for-the-badge&logo=tryhackme&logoColor=ff4d6d&color=08111f" />
+
+</div>
+
+ACTIVE LOADOUT
+<table>
+<tr>
+<td width="33%" valign="top">
+
+🐍 Python
+Small helper scripts
+
+Automation workflows
+
+Security experiments
+
+</td>
+<td width="33%" valign="top">
+
+🐧 Linux
+Terminal-first workflow
+
+Bash scripting
+
+System exploration
+
+</td>
+<td width="33%" valign="top">
+
+🛡️ Security
+Labs and writeups
+
+Enumeration practice
+
+Learning offensive techniques
+
+</td>
+</tr>
+</table>
+
+SIGNAL QUOTES
+<div align="center">
+
+<!-- Famous quotes typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=00FFD5&center=true&width=980&lines=Alan+Turing:+%22Those+who+can+imagine+anything,+can+create+the+impossible.%22;Grace+Hopper:+%22The+most+dangerous+phrase+is+'We've+always+done+it+this+way.'%22;Linus+Torvalds:+%22Talk+is+cheap.+Show+me+the+code.%22;Dennis+Ritchie:+%22UNIX+is+simple.+It+just+takes+a+genius+to+understand+its+simplicity.%22;Tim+Berners-Lee:+%22The+Web+does+not+just+connect+machines,+it+connects+people.%22;Steve+Jobs:+%22Innovation+distinguishes+between+a+leader+and+a+follower.%22;Bill+Gates:+%22Your+most+unhappy+customers+are+your+greatest+source+of+learning.%22" />
+
+</div>
+
+FEATURED PATHS
+GitHub Profile: ananthakrishnanks347-maker
+
+TryHackMe: Ananthakrishnank.s
+
+LinkedIn: Ananthakrishnan K S
+
+PERSONAL PHILOSOPHY
+Build with curiosity. Break with purpose. Learn with discipline. Share with clarity.
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ananthakrishnanks347-maker&label=PROFILE+VIEWS&color=00ffd5&style=for-the-badge" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d5b5,35:014f5f,70:07111f,100:02040f&height=130&section=footer" />
+
+</div>
+
+Code
+
+---
+
+✅ This is the **single, complete code** with all sections unified and the quotes transition added. Copy this into your `README.md` and commit — your profile will now show the full design with dynamic quotes in the `SIGNAL QUOTES` area.  
+
+Would you like me to also prepare a **second stacked animation block** so you can rotate even more quotes without hitting GitHu
