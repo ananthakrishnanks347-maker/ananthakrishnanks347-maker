@@ -65,21 +65,7 @@
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=ananthakrishnanks347-maker&theme=dark&hide_border=true" />
-
-<br><br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananthakrishnanks347-maker&theme=react-dark&bg_color=030712&color=00ffd5&line=00ffd5&point=ffffff&hide_border=true" width="95%" />
-
-</div>
-
----
-
-<div align="center">
-
-## ` TROPHY DECK `
-
-<img src="https://github-profile-trophy.vercel.app/?username=ananthakrishnanks347-maker&theme=darkhub&no-frame=true&column=4" />
 
 </div>
 
