@@ -118,6 +118,16 @@ My current direction is offensive security, Linux workflows, Python automation, 
 
 ---
 
+# ` SIGNAL QUOTES `
+
+<div align="center">
+
+<img src="./assets/quotes.gif" width="850" alt="Animated famous quote transitions" />
+
+</div>
+
+---
+
 # ` FEATURED PATHS `
 
 - **GitHub Profile**: [ananthakrishnanks347-maker](https://github.com/ananthakrishnanks347-maker)
