@@ -61,3 +61,93 @@ My current direction is offensive security, Linux workflows, Python automation, 
 [✓] Create cleaner GitHub presentation
 [ ] Publish more writeups and notes
 [ ] Strengthen offensive security foundations
+```
+
+---
+
+# ` TOOLCHAIN MATRIX `
+
+<div align="center">
+
+<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,html,css&theme=dark&perline=8" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Nmap-08111f?style=for-the-badge&color=08111f&logoColor=00ffd5" />
+<img src="https://img.shields.io/badge/Wireshark-08111f?style=for-the-badge&logo=wireshark&logoColor=45c7ff&color=08111f" />
+<img src="https://img.shields.io/badge/Burp_Suite-08111f?style=for-the-badge&logo=burpsuite&logoColor=ff8b3d&color=08111f" />
+<img src="https://img.shields.io/badge/Metasploit-08111f?style=for-the-badge&logo=metasploit&logoColor=57b6ff&color=08111f" />
+<img src="https://img.shields.io/badge/TryHackMe-08111f?style=for-the-badge&logo=tryhackme&logoColor=ff4d6d&color=08111f" />
+
+</div>
+
+---
+
+# ` ACTIVE LOADOUT `
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+## 🐍 Python
+- Small helper scripts
+- Automation workflows
+- Security experiments
+
+</td>
+<td width="33%" valign="top">
+
+## 🐧 Linux
+- Terminal-first workflow
+- Bash scripting
+- System exploration
+
+</td>
+<td width="33%" valign="top">
+
+## 🛡️ Security
+- Labs and writeups
+- Enumeration practice
+- Learning offensive techniques
+
+</td>
+</tr>
+</table>
+
+---
+
+# ` SIGNAL QUOTES `
+
+<div align="center">
+
+<img src="./assets/quotes.gif" width="850" alt="Animated famous quote transitions" />
+
+</div>
+
+---
+
+# ` FEATURED PATHS `
+
+- **GitHub Profile**: [ananthakrishnanks347-maker](https://github.com/ananthakrishnanks347-maker)
+- **TryHackMe**: [Ananthakrishnank.s](https://tryhackme.com/p/Ananthakrishnank.s)
+- **LinkedIn**: [Ananthakrishnan K S](https://www.linkedin.com/in/ananthakrishnan-ks-/)
+
+---
+
+# ` PERSONAL PHILOSOPHY `
+
+> Build with curiosity. Break with purpose. Learn with discipline. Share with clarity.
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ananthakrishnanks347-maker&label=PROFILE+VIEWS&color=00ffd5&style=for-the-badge" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d5b5,35:014f5f,70:07111f,100:02040f&height=130&section=footer" />
+
+</div>
