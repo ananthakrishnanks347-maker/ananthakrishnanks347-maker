@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02040f,20:07111f,45:0b1f2a,70:004e64,100:00c2a8&height=260&section=header&text=ANANTHAKRISHNAN%20K%20S&fontSize=50&fontColor=e8fffb&fontAlignY=36&desc=Cybersecurity%20Learner%20%7C%20Offensive%20Security%20%7C%20Python%20Automation&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=850&color=00FFD5&center=true&vCenter=true&width=980&lines=%3E+initializing+operator+console;%3E+loading+labs%2C+writeups%2C+and+tooling;%3E+network+enumeration+%7C+web+testing+%7C+privilege+escalation;%3E+python+automation+for+security+workflows;%3E+status%3A+building+skills+through+hands-on+practice" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=850&color=00FFD5&center=true&vCenter=true&width=980&lines=%3E+initializing+operator+console;%3E+loading+labs%2C+writeups+and+tooling;%3E+network+enumeration+%7C+web+testing+%7C+privilege+escalation;%3E+python+automation+for+security+workflows;%3E+status%3A+building+skills+through+hands-on+practice" />
 
 <br><br>
 
@@ -125,4 +125,4 @@
 
 ## ` ACTIVE OPERATIONS DASHBOARD `
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00FFD5&center=true&vCenter=true&width=980&lines=root%40ops%3A~%23+whoami;ananthakrishnan;root%40ops%3A~%23+python3+recon.py+--mode+deep;discovering+services...;mapping+attack+surface...;testing+misconfigurations...;root%40ops%3A~%23+echo+%22learn+%2F+build+%2F+break+%2F+document%22;Alan+Turing:+%22Those+who+can+imagine+anything,+can+create+the+impossible.%22;Grace+Hopper:+%22The+most+dangerous+phrase+is+'We've+always+done+it+this+way.'%22;Linus+Torvalds:+%22Talk+is+cheap.+Show+me+the+code.%22;Dennis+Ritchie:+%22UNIX+is+simple.+It+just+t
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00FFD5&center=true&vCenter=true&width=980&lines=root%40ops%3A~%23+whoami;ananthakrishnan;root%40ops%3A~%23+python3+recon.py+--mode+deep;discovering+services...;mapping+attack+surface...;testing+misconfigurations...;root%40ops%3A~%23+echo+%22learn+%2F+build+%2F+break+%2F+document%22;Alan+Turing:+%22Those+who+can+imagine+anything,+can+create+the+impossible.%22;Grace+Hopper:+%22The+most+dangerous+phrase+is+'We've+always+done+it+this+way.'%22;Linus+Torvalds:+%22Talk+is+cheap.+Show+me+the+code.%22;Dennis+Ritchie:+%22UNIX+is
