@@ -62,7 +62,7 @@
 ## ` VISUAL STATUS BOARD `
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=transparent&hide_border=true&title_color=00ffd5&icon_color=00ffd5&text_color=d6e7ff&bg_color=00000000&rank_icon=github" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ananthakrishnanks347-maker&theme=transparent&hide_border=true&stroke=00ffd5&ring=00ffd5&fire=00ffd5&currStreakLabel=00ffd5&sideNums=d6e7ff&currStreakNum=d6e7ff&sideLabels=d6e7ff&dates=8aa4c8&background=00000000" />
+<img height="170" src="https://streak-stats.demolab.com?user=ananthakrishnanks347-maker&theme=transparent&hide_border=true&ring=00ffd5&fire=00ffd5&currStreakLabel=00ffd5&sideNums=d6e7ff&currStreakNum=d6e7ff&sideLabels=d6e7ff&dates=8aa4c8" />
 
 <br><br>
 
@@ -86,7 +86,7 @@
 
 ## ` TOOLCHAIN MATRIX `
 
-<a href="https://skillicons.dev">
+<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,html,css&theme=dark&perline=8" />
 </a>
 
@@ -107,11 +107,11 @@
 ## ` CURRENT OBJECTIVES `
 
 ```text
- Build practical Python tools for recon and workflow automation[5]
- Improve confidence in network and web exploitation labs[6]
- Document learning through cleaner writeups and public repos[7]
- Strengthen Linux, Bash, and enumeration fundamentals[8]
- Turn consistent practice into visible GitHub progress[9]
+ Build practical Python tools for recon and workflow automation[4]
+ Improve confidence in network and web exploitation labs[5]
+ Document learning through cleaner writeups and public repos[6]
+ Strengthen Linux, Bash, and enumeration fundamentals[7]
+ Turn consistent practice into visible GitHub progress[8]
 ```
 
 </div>
