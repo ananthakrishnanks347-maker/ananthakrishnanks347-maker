@@ -79,11 +79,23 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Nmap-08111f?style=for-the-badge&logoColor=00ffd5&color=08111f" />
-<img src="https://img.shields.io/badge/Wireshark-08111f?style=for-the-badge&logo=wireshark&logoColor=45c7ff&color=08111f" />
-<img src="https://img.shields.io/badge/Burp_Suite-08111f?style=for-the-badge&logo=burpsuite&logoColor=ff8b3d&color=08111f" />
-<img src="https://img.shields.io/badge/Metasploit-08111f?style=for-the-badge&logo=metasploit&logoColor=57b6ff&color=08111f" />
-<img src="https://img.shields.io/badge/TryHackMe-08111f?style=for-the-badge&logo=tryhackme&logoColor=ff4d6d&color=08111f" />
+### Core Languages & Environments
+<br>
+<img src="https://img.shields.io/badge/Python-08111f?style=for-the-badge&logo=python&logoColor=3776AB&color=08111f" alt="Python" />
+<img src="https://img.shields.io/badge/Bash-08111f?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25&color=08111f" alt="Bash" />
+<img src="https://img.shields.io/badge/Linux-08111f?style=for-the-badge&logo=linux&logoColor=FCC624&color=08111f" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-08111f?style=for-the-badge&logo=git&logoColor=F05032&color=08111f" alt="Git" />
+<img src="https://img.shields.io/badge/VS_Code-08111f?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&color=08111f" alt="VS Code" />
+
+<br><br>
+
+### Security Tooling & Platforms
+<br>
+<img src="https://img.shields.io/badge/Nmap-08111f?style=for-the-badge&logoColor=00ffd5&color=08111f" alt="Nmap" />
+<img src="https://img.shields.io/badge/Wireshark-08111f?style=for-the-badge&logo=wireshark&logoColor=45c7ff&color=08111f" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Burp_Suite-08111f?style=for-the-badge&logo=burpsuite&logoColor=ff8b3d&color=08111f" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Metasploit-08111f?style=for-the-badge&logo=metasploit&logoColor=57b6ff&color=08111f" alt="Metasploit" />
+<img src="https://img.shields.io/badge/TryHackMe-08111f?style=for-the-badge&logo=tryhackme&logoColor=ff4d6d&color=08111f" alt="TryHackMe" />
 
 </div>
 
