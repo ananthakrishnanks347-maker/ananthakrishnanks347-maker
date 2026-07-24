@@ -2,17 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02040f,20:07111f,45:0b1f2a,70:004e64,100:00c2a8&height=260&section=header&text=ANANTHAKRISHNAN%20K%20S&fontSize=50&fontColor=e8fffb&fontAlignY=36&desc=Cybersecurity%20Learner%20%7C%20Offensive%20Security%20%7C%20Python%20Automation&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=850&color=00FFD5&center=true&vCenter=true&width=980&lines=%3E+initializing+operator+console;%3E+loading+labs%2C+writeups%2C+and+tooling;%3E+network+enumeration+%7C+web+testing+%7C+privilege+escalation;%3E+python+automation+for+security+workflows;%3E+status%3A+building+skills+through+hands-on+practice" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=850&color=00FFD5&center=true&vCenter=true&width=980&lines=%3E+initializing+operator+console;%3E+loading+labs%2C+writeups+and+tooling;%3E+network+enumeration+%7C+web+testing+%7C+privilege+escalation;%3E+python+automation+for+security+workflows;%3E+status%3A+building+skills+through+hands-on+practice" />
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/ananthakrishnan-ks-/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/ananthakrishnan-ks-/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-08111f?style=for-the-badge&logo=linkedin&logoColor=00ffd5&labelColor=030712" />
 </a>
-<a href="https://tryhackme.com/p/Ananthakrishnank.s" target="_blank" rel="noopener noreferrer">
+<a href="https://tryhackme.com/p/Ananthakrishnank.s" target="_blank">
   <img src="https://img.shields.io/badge/TRYHACKME-08111f?style=for-the-badge&logo=tryhackme&logoColor=ff4d6d&labelColor=030712" />
 </a>
-<a href="https://github.com/ananthakrishnanks347-maker" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/ananthakrishnanks347-maker" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-08111f?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=030712" />
 </a>
 
@@ -35,10 +35,10 @@
 <td width="50%" valign="top">
 
 ### 👨‍💻 About
-- Building security scripts, automation helpers, and lab-based projects.
-- Learning offensive security through practical boxes and environments.
-- Exploring network exploitation, web testing, and privilege escalation.
-- Using Python, Bash, Linux, and Git as daily tools.
+- Building security scripts, automation helpers, and lab-based projects.  
+- Learning offensive security through practical boxes and environments.  
+- Exploring network exploitation, web testing, and privilege escalation.  
+- Using Python, Bash, Linux, and Git as daily tools.  
 
 </td>
 <td width="50%" valign="top">
@@ -60,6 +60,8 @@
 <div align="center">
 
 ## ` VISUAL STATUS BOARD `
+
+---
 
 ### 📊 Mission Analytics
 <img src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffd5&icon_color=ff4d6d&text_color=ffffff" />
@@ -115,4 +117,7 @@
 
 ## ` ACTIVE OPERATIONS DASHBOARD `
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FFD5&center=true&vCenter=true&width=980&lines=Alan+Turing:+%22Those+who+can+imagine+anything,+can+create+the+impossible.%22;Grace+Hopper:+%22The+most+dangerous+phrase+is+'We've+always+done+it+this+way.'%22;Linus+Torvalds:+%22Talk+is+cheap.+Show+me+the+code.%22;Dennis+Ritchie:+%22UNIX+is+simple.+It+just+takes+a+genius+to+understand+its+simplicity.%22;Tim+Berners-Lee:+%22The+Web+does+not+just+connect+machines,+it+connects+people.%22;Steve+Jobs:+%22Innovation+distinguishes+between+a+leader+and+a+follower.%22;Bill+Gates:+%22Your+most+unhappy
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FFD5&center=true&vCenter=true&width=980&lines=Alan+Turing:+%22Those+who+can+imagine+anything,+can+create+the+impossible.%22;Grace+Hopper:+%22The+most+dangerous+phrase+is+'We've+always+done+it+this+way.'%22;Linus+Torvalds:+%22Talk+is+cheap.+Show+me+the+code.%22;Dennis+Ritchie:+%22UNIX+is+simple.+It+just+takes+a+genius+to+understand+its+simplicity.%22;Tim+Berners-Lee:+%22The+Web+does+not+just+connect+machines,+it+connects+people.%22;Steve+Jobs:+%22Innovation+distinguishes+between+a+leader+and+a+follower.%22;Bill+Gates:+%22Your+most+unhappy+customers+are+your+greatest+source+of+learning.%22" />
+
+```text
+  [✔]
