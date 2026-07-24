@@ -120,10 +120,12 @@ My current direction is offensive security, Linux workflows, Python automation, 
 
 # ` SIGNAL QUOTES `
 
+# ` SIGNAL QUOTES `
+
 <div align="center">
 
 <!-- Famous quotes typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=00FFD5&center=true&width=980&lines=Alan+Turing:+%22Those+who+can+imagine+anything,+can+create+the+impossible.%22;Grace+Hopper:+%22The+most+dangerous+phrase+is+'We've+always+done+it+this+way.'%22;Linus+Torvalds:+%22Talk+is+cheap.+Show+me+the+code.%22;Dennis+Ritchie:+%22UNIX+is+simple.+It+just+takes+a+genius+to+understand+its+simplicity.%22;Tim+Berners-Lee:+%22The+Web+does+not+just+connect+machines,+it+connects+people.%22;Steve+Jobs:+%22Innovation+distinguishes+between+a+leader+and+a+follower.%22;Bill+Gates:+%22Your+most+unhappy+customers+are+your+greatest+source+of+learning.%22" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=00FFD5&center=true&width=980&lines=Alan+Turing:+%22Those+who+can+imagine+anything,+can+create+the+impossible.%22;Grace+Hopper:+%22The+most+dangerous+phrase+is+'We've+always+done+it+this+way.'%22;Linus+Torvalds:+%22Talk+is+cheap.+Show+me+the+code.%22;Dennis+Ritchie:+%22UNIX+is+simple.+It+just+takes+a+genius+to+understand+its+simplicity.%22;Tim+Berners-Lee:+%22The+Web+does+not+just+connect+machines,+it+connects+people.%22;Steve+Jobs:+%22Innovation+distinguishes+between+a+leader+and+a+follower.%22;Bill+Gates:+%22Your+most+unhappy+customers+are+your+greatest+source+of+learning.%22;Albert+Einstein:+%22Imagination+is+more+important+than+knowledge.%22;Elon+Musk:+%22When+something+is+important+enough,+you+do+it+even+if+the+odds+are+not+in+your+favor.%22;Nikola+Tesla:+%22The+present+is+theirs;+the+future,+for+which+I+really+worked,+is+mine.%22" />
 
 </div>
 
