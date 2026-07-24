@@ -80,22 +80,20 @@
 <br><br>
 
 ### Core Languages & Environments
-<br>
-<img src="https://img.shields.io/badge/Python-08111f?style=for-the-badge&logo=python&logoColor=3776AB&color=08111f" alt="Python" />
-<img src="https://img.shields.io/badge/Bash-08111f?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25&color=08111f" alt="Bash" />
-<img src="https://img.shields.io/badge/Linux-08111f?style=for-the-badge&logo=linux&logoColor=FCC624&color=08111f" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-08111f?style=for-the-badge&logo=git&logoColor=F05032&color=08111f" alt="Git" />
-<img src="https://img.shields.io/badge/VS_Code-08111f?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&color=08111f" alt="VS Code" />
+<img src="https://img.shields.io/badge/Python-08111f?style=for-the-badge&logo=python&logoColor=3776AB&color=08111f" />
+<img src="https://img.shields.io/badge/Bash-08111f?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25&color=08111f" />
+<img src="https://img.shields.io/badge/Linux-08111f?style=for-the-badge&logo=linux&logoColor=FCC624&color=08111f" />
+<img src="https://img.shields.io/badge/Git-08111f?style=for-the-badge&logo=git&logoColor=F05032&color=08111f" />
+<img src="https://img.shields.io/badge/VS_Code-08111f?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&color=08111f" />
 
 <br><br>
 
 ### Security Tooling & Platforms
-<br>
-<img src="https://img.shields.io/badge/Nmap-08111f?style=for-the-badge&logoColor=00ffd5&color=08111f" alt="Nmap" />
-<img src="https://img.shields.io/badge/Wireshark-08111f?style=for-the-badge&logo=wireshark&logoColor=45c7ff&color=08111f" alt="Wireshark" />
-<img src="https://img.shields.io/badge/Burp_Suite-08111f?style=for-the-badge&logo=burpsuite&logoColor=ff8b3d&color=08111f" alt="Burp Suite" />
-<img src="https://img.shields.io/badge/Metasploit-08111f?style=for-the-badge&logo=metasploit&logoColor=57b6ff&color=08111f" alt="Metasploit" />
-<img src="https://img.shields.io/badge/TryHackMe-08111f?style=for-the-badge&logo=tryhackme&logoColor=ff4d6d&color=08111f" alt="TryHackMe" />
+<img src="https://img.shields.io/badge/Nmap-08111f?style=for-the-badge&logoColor=00ffd5&color=08111f" />
+<img src="https://img.shields.io/badge/Wireshark-08111f?style=for-the-badge&logo=wireshark&logoColor=45c7ff&color=08111f" />
+<img src="https://img.shields.io/badge/Burp_Suite-08111f?style=for-the-badge&logo=burpsuite&logoColor=ff8b3d&color=08111f" />
+<img src="https://img.shields.io/badge/Metasploit-08111f?style=for-the-badge&logo=metasploit&logoColor=57b6ff&color=08111f" />
+<img src="https://img.shields.io/badge/TryHackMe-08111f?style=for-the-badge&logo=tryhackme&logoColor=ff4d6d&color=08111f" />
 
 </div>
 
@@ -103,11 +101,13 @@
 
 <div align="center">
 
-## ` CURRENT OBJECTIVES `
+## ` ACTIVE OPERATIONS DASHBOARD `
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FFD5&center=true&vCenter=true&width=980&lines=Alan+Turing:+%22Those+who+can+imagine+anything,+can+create+the+impossible.%22;Grace+Hopper:+%22The+most+dangerous+phrase+is+'We've+always+done+it+this+way.'%22;Kevin+Mitnick:+%22The+human+element+is+the+weakest+link+in+security.%22;Linus+Torvalds:+%22Talk+is+cheap.+Show+me+the+code.%22;Bruce+Schneier:+%22Security+is+not+a+product,+but+a+process.%22" />
 
 ```text
-  Build practical Python tools for recon and workflow automation
-  Improve confidence in network and web exploitation labs
-  Document learning through cleaner writeups and public repos
-  Strengthen Linux, Bash, and enumeration fundamentals
-  Turn consistent practice into visible GitHub progress
+  [✔] Build Python recon & automation tools
+  [✔] Strengthen Linux & Bash fundamentals
+  [✔] Improve confidence in exploitation labs
+  [✔] Document learning through public writeups
+  [✔] Maintain consistent GitHub progress
