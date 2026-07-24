@@ -61,11 +61,11 @@
 
 ## ` VISUAL STATUS BOARD `
 
-<img src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=transparent&hide_border=true&title_color=00ffd5&icon_color=00ffd5&text_color=d6e7ff&bg_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=ananthakrishnanks347-maker&theme=transparent&hide_border=true&ring=00ffd5&fire=00ffd5&currStreakLabel=00ffd5&sideNums=d6e7ff&currStreakNum=d6e7ff&sideLabels=d6e7ff&dates=8aa4c8" />
+<img src="https://streak-stats.demolab.com?user=ananthakrishnanks347-maker&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
@@ -79,7 +79,7 @@
 
 ## ` TROPHY DECK `
 
-<img src="https://github-profile-trophy.vercel.app/?username=ananthakrishnanks347-maker&theme=algolia&no-frame=true&no-bg=true&row=1&column=4&margin-w=5&margin-h=5" />
+<img src="https://github-profile-trophy.vercel.app/?username=ananthakrishnanks347-maker&theme=onedark&no-frame=true&no-bg=true&column=4" />
 
 </div>
 
