@@ -44,12 +44,12 @@
 <td width="50%" valign="top">
 
 ### ⚙️ Operator Focus
-- Reconnaissance and service enumeration
-- Web application testing basics
-- Linux workflows and shell automation
-- Security tooling with Python
-- Documentation through writeups
-- Consistent hands-on lab practice
+- Reconnaissance and service enumeration  
+- Web application testing basics  
+- Linux workflows and shell automation  
+- Security tooling with Python  
+- Documentation through writeups  
+- Consistent hands-on lab practice  
 
 </td>
 </tr>
@@ -64,11 +64,17 @@
 ### 📊 Mission Analytics
 <img src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffd5&icon_color=ff4d6d&text_color=ffffff" />
 
+---
+
 ### ⚡ Contribution Heatmap
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananthakrishnanks347-maker&theme=tokyo-night&bg_color=0d1117&color=00ffd5&line=00ffd5&point=ffffff&hide_border=true" width="95%" />
 
+---
+
 ### 🏆 Operator Achievements
 <img src="https://github-profile-trophy.vercel.app/?username=ananthakrishnanks347-maker&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10" />
+
+---
 
 ### 🚀 Streak Counter
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthakrishnanks347-maker&theme=radical&hide_border=true&background=0d1117&stroke=00ffd5&ring=00ffd5&fire=ff4d6d&currStreakLabel=ffffff" />
@@ -109,9 +115,4 @@
 
 ## ` ACTIVE OPERATIONS DASHBOARD `
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FFD5&center=true&vCenter=true&width=980&lines=Alan+Turing:+%22Those+who+can+imagine+anything,+can+create+the+impossible.%22;Grace+Hopper:+%22The+most+dangerous+phrase+is+'We've+always+done+it+this+way.'%22;Linus+Torvalds:+%22Talk+is+cheap.+Show+me+the+code.%22;Dennis+Ritchie:+%22UNIX+is+simple.+It+just+takes+a+genius+to+understand+its+simplicity.%22;Tim+Berners-Lee:+%22The+Web+does+not+just+connect+machines,+it+connects+people.%22;Steve+Jobs:+%22Innovation+distinguishes+between+a+leader+and+a+follower.%22;Bill+Gates:+%22Your+most+unhappy+customers+are+your+greatest+source+of+learning.%22" />
-
-```text
-  [✔] Build Python recon & automation tools
-  [✔] Strengthen Linux & Bash fundamentals
-  [✔] Improve
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FFD5&center=true&vCenter=true&width=980&lines=Alan+Turing:+%22Those+who+can+imagine+anything,+can+create+the+impossible.%22;Grace+Hopper:+%22The+most+dangerous+phrase+is+'We've+always+done+it+this+way.'%22;Linus+Torvalds:+%22Talk+is+cheap.+Show+me+the+code.%22;Dennis+Ritchie:+%22UNIX+is+simple.+It+just+takes+a+genius+to+understand+its+simplicity.%22;Tim+Berners-Lee:+%22The+Web+does+not+just+connect+machines,+it+connects+people.%22;Steve+Jobs:+%22Innovation+distinguishes+between+a+leader+and+a+follower.%22;Bill+Gates:+%22Your+most+unhappy
