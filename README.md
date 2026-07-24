@@ -61,12 +61,13 @@
 
 ## ` VISUAL STATUS BOARD `
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=transparent&hide_border=true&title_color=00ffd5&icon_color=00ffd5&text_color=d6e7ff&bg_color=00000000" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=ananthakrishnanks347-maker&theme=transparent&hide_border=true&ring=00ffd5&fire=00ffd5&currStreakLabel=00ffd5&sideNums=d6e7ff&currStreakNum=d6e7ff&sideLabels=d6e7ff&dates=8aa4c8" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=transparent&hide_border=true&title_color=00ffd5&icon_color=00ffd5&text_color=d6e7ff&bg_color=00000000" />
 
 <br>
+
+<img src="https://streak-stats.demolab.com?user=ananthakrishnanks347-maker&theme=transparent&hide_border=true&ring=00ffd5&fire=00ffd5&currStreakLabel=00ffd5&sideNums=d6e7ff&currStreakNum=d6e7ff&sideLabels=d6e7ff&dates=8aa4c8" />
+
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananthakrishnanks347-maker&theme=react-dark&bg_color=030712&color=00ffd5&line=00ffd5&point=ffffff&hide_border=true" width="95%" />
 
@@ -78,7 +79,7 @@
 
 ## ` TROPHY DECK `
 
-<img src="https://github-profile-trophy.vercel.app/?username=ananthakrishnanks347-maker&theme=algolia&no-frame=true&no-bg=true&row=1&column=4&margin-w=8&margin-h=8" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ananthakrishnanks347-maker&theme=algolia&no-frame=true&no-bg=true&row=1&column=4&margin-w=5&margin-h=5" />
 
 </div>
 
@@ -88,11 +89,9 @@
 
 ## ` TOOLCHAIN MATRIX `
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,html,css&theme=dark&perline=8" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,html,css&theme=dark&perline=8" />
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Nmap-08111f?style=for-the-badge&logoColor=00ffd5&color=08111f" />
 <img src="https://img.shields.io/badge/Wireshark-08111f?style=for-the-badge&logo=wireshark&logoColor=45c7ff&color=08111f" />
