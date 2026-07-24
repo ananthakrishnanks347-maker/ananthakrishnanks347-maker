@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/ananthakrishnan-k-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ananthakrishnan-ks-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/ananthakrishnanks347-maker"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://tryhackme.com/p/Ananthakrishnank.s"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
 <a href="https://profile.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
@@ -43,8 +43,8 @@ I break systems to understand them, then help fix what I break. Currently sharpe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF3CAC&icon_color=784BA0&text_color=c9d1d9&count_private=true&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishnanks347-maker&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF3CAC&text_color=c9d1d9&cache_seconds=1800" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF3CAC&icon_color=784BA0&text_color=c9d1d9&count_private=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ananthakrishnanks347-maker&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF3CAC&text_color=c9d1d9" height="165"/>
 
 </div>
 
