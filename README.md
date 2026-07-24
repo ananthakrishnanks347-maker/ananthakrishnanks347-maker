@@ -118,7 +118,7 @@ My current direction is offensive security, Linux workflows, Python automation, 
 
 ---
 
-# ` SIGNAL QUOTES `
+
 
 # ` SIGNAL QUOTES `
 
