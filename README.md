@@ -1,75 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:02040f,20:07111f,40:0b1f2a,70:014f5f,100:00d5b5&height=280&section=header&text=ANANTHAKRISHNAN%20K%20S&fontSize=52&fontColor=eafffb&fontAlignY=38&desc=Cybersecurity%20Learner%20%7C%20Offensive%20Security%20Journey%20%7C%20Python%20%2B%20Linux&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:02040f,25:07111f,55:0b1f2a,80:014f5f,100:00d5b5&height=260&section=header&text=ANANTHAKRISHNAN%20K%20S&fontSize=50&fontColor=eafffb&fontAlignY=38&desc=Cybersecurity%20Learner%20%7C%20Offensive%20Security%20%7C%20Python%20%2B%20Linux&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00FFD5&center=true&vCenter=true&width=980&lines=%3E+booting+operator+profile...;%3E+loading+labs%2C+writeups%2C+and+tooling...;%3E+network+enumeration+%7C+web+security+%7C+linux;%3E+learning+through+hands-on+practice;%3E+crafting+a+profile+that+shows+real+progress" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=00FFD5&center=true&vCenter=true&width=900&lines=%3E+building+real+skills+through+labs+and+writeups;%3E+focused+on+enumeration%2C+web+security%2C+linux%2C+and+automation;%3E+documenting+progress+one+project+at+a+time" />
 
-<br><br>
+<br>
 
-<a href="https://www.linkedin.com/in/ananthakrishnan-ks-/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-07111f?style=for-the-badge&logo=linkedin&logoColor=00ffd5&labelColor=030712" />
+<a href="https://www.linkedin.com/in/ananthakrishnan-ks-/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0a0f1c?style=for-the-badge&logo=linkedin&logoColor=00ffd5" />
 </a>
-<a href="https://tryhackme.com/p/Ananthakrishnank.s" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/TryHackMe-07111f?style=for-the-badge&logo=tryhackme&logoColor=ff4d6d&labelColor=030712" />
+<a href="https://tryhackme.com/p/Ananthakrishnank.s" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-0a0f1c?style=for-the-badge&logo=tryhackme&logoColor=ff4d6d" />
 </a>
-<a href="https://github.com/ananthakrishnanks347-maker" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-07111f?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=030712" />
+<a href="https://github.com/ananthakrishnanks347-maker" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0a0f1c?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=1200&color=7FFFE1&center=true&vCenter=true&width=980&height=110&lines=root%40lab%3A~%23+whoami;ananthakrishnan;root%40lab%3A~%23+python3+recon.py;discovering+hosts...;enumerating+services...;building+notes...;status%3A+learn+%2F+build+%2F+document" />
 
 </div>
 
 ---
 
-# ` OPERATOR CONSOLE `
+# ` whoami`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```bash
+root@lab:~# whoami
+Ananthakrishnan K S
 
-## 👨‍💻 Identity
+root@lab:~# echo $ROLE
+Cybersecurity Learner
 
-I’m a cybersecurity learner focused on practical skills, hands-on labs, and steady improvement.  
-My current direction is offensive security, Linux workflows, Python automation, and learning by doing.
-
-</td>
-<td width="50%" valign="top">
-
-## 🎯 Current Focus
-
-- Network enumeration  
-- Web exploitation fundamentals  
-- Linux and Bash scripting  
-- Python-based helper tools  
-- Privilege escalation practice  
-- Writeups and learning notes  
-
-</td>
-</tr>
-</table>
-
----
-
-# ` MISSION TRACK `
-
-```text
-[✓] Build more public learning projects
-[✓] Improve practical recon workflow
-[✓] Create cleaner GitHub presentation
-[ ] Publish more writeups and notes
-[ ] Strengthen offensive security foundations
+root@lab:~# echo $FOCUS
+Offensive Security | Linux | Python | Web Security | Recon
 ```
 
+I’m a cybersecurity learner focused on building practical skills through hands-on labs, writeups, and small security projects.  
+My goal is to grow into a stronger offensive security practitioner by learning deeply, documenting clearly, and improving consistently.
+
 ---
 
-# ` TOOLCHAIN MATRIX `
+# ` current-focus`
+
+- Network enumeration and recon workflow
+- Web exploitation fundamentals
+- Linux privilege escalation practice
+- Python and Bash helper scripts
+- TryHackMe labs and learning notes
+- Public documentation of progress
+
+---
+
+# ` featured-projects`
+
+| Project | What it shows | Stack |
+|---|---|---|
+| Recon Helper Script | Automating small enumeration tasks and note-taking workflow | Python, Linux |
+| Lab Writeups | Practical learning from security labs and boxes | Markdown, GitHub |
+| Bash Utilities | Simple scripting for faster terminal workflows | Bash, Linux |
+| Web Security Notes | Concepts, test cases, and observations from practice | Markdown, Burp Suite |
+
+> Replace the project names above with your actual repositories as you publish them.
+
+---
+
+# ` toolkit`
 
 <div align="center">
 
-<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+<a href="https://skillicons.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,html,css&theme=dark&perline=8" />
 </a>
 
@@ -77,7 +74,7 @@ My current direction is offensive security, Linux workflows, Python automation, 
 
 <img src="https://img.shields.io/badge/Nmap-08111f?style=for-the-badge&color=08111f&logoColor=00ffd5" />
 <img src="https://img.shields.io/badge/Wireshark-08111f?style=for-the-badge&logo=wireshark&logoColor=45c7ff&color=08111f" />
-<img src="https://img.shields.io/badge/Burp_Suite-08111f?style=for-the-badge&logo=burpsuite&logoColor=ff8b3d&color=08111f" />
+<img src="https://img.shields.io/badge/Burp%20Suite-08111f?style=for-the-badge&logo=burpsuite&logoColor=ff8b3d&color=08111f" />
 <img src="https://img.shields.io/badge/Metasploit-08111f?style=for-the-badge&logo=metasploit&logoColor=57b6ff&color=08111f" />
 <img src="https://img.shields.io/badge/TryHackMe-08111f?style=for-the-badge&logo=tryhackme&logoColor=ff4d6d&color=08111f" />
 
@@ -85,72 +82,51 @@ My current direction is offensive security, Linux workflows, Python automation, 
 
 ---
 
-# ` ACTIVE LOADOUT `
+# ` mission-log`
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-## 🐍 Python
-- Small helper scripts
-- Automation workflows
-- Security experiments
-
-</td>
-<td width="33%" valign="top">
-
-## 🐧 Linux
-- Terminal-first workflow
-- Bash scripting
-- System exploration
-
-</td>
-<td width="33%" valign="top">
-
-## 🛡️ Security
-- Labs and writeups
-- Enumeration practice
-- Learning offensive techniques
-
-</td>
-</tr>
-</table>
+```text
+[✓] Improve GitHub profile presentation
+[✓] Build public learning projects
+[✓] Practice recon and enumeration workflows
+[ ] Publish more writeups
+[ ] Create stronger Python security tools
+[ ] Deepen offensive security fundamentals
+```
 
 ---
 
+# ` lab-status`
 
-
-# ` SIGNAL QUOTES `
-
-<div align="center">
-
-<!-- Famous quotes typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=00FFD5&center=true&width=980&lines=Alan+Turing:+%22Those+who+can+imagine+anything,+can+create+the+impossible.%22;Grace+Hopper:+%22The+most+dangerous+phrase+is+'We've+always+done+it+this+way.'%22;Linus+Torvalds:+%22Talk+is+cheap.+Show+me+the+code.%22;Dennis+Ritchie:+%22UNIX+is+simple.+It+just+takes+a+genius+to+understand+its+simplicity.%22;Tim+Berners-Lee:+%22The+Web+does+not+just+connect+machines,+it+connects+people.%22;Steve+Jobs:+%22Innovation+distinguishes+between+a+leader+and+a+follower.%22;Bill+Gates:+%22Your+most+unhappy+customers+are+your+greatest+source+of+learning.%22;Albert+Einstein:+%22Imagination+is+more+important+than+knowledge.%22;Elon+Musk:+%22When+something+is+important+enough,+you+do+it+even+if+the+odds+are+not+in+your+favor.%22;Nikola+Tesla:+%22The+present+is+theirs;+the+future,+for+which+I+really+worked,+is+mine.%22" />
-
-</div>
-
----
-
-# ` FEATURED PATHS `
-
-- **GitHub Profile**: [ananthakrishnanks347-maker](https://github.com/ananthakrishnanks347-maker)
-- **TryHackMe**: [Ananthakrishnank.s](https://tryhackme.com/p/Ananthakrishnank.s)
-- **LinkedIn**: [Ananthakrishnan K S](https://www.linkedin.com/in/ananthakrishnan-ks-/)
+```yaml
+status:
+  mindset: "learn -> practice -> document -> improve"
+  current_path:
+    - network enumeration
+    - web security basics
+    - privilege escalation
+    - python automation
+  next_targets:
+    - more public writeups
+    - cleaner project documentation
+    - stronger real-world workflow
+```
 
 ---
 
-# ` PERSONAL PHILOSOPHY `
+# ` connect`
 
-> Build with curiosity. Break with purpose. Learn with discipline. Share with clarity.
+- GitHub: [ananthakrishnanks347-maker](https://github.com/ananthakrishnanks347-maker)
+- TryHackMe: [Ananthakrishnank.s](https://tryhackme.com/p/Ananthakrishnank.s)
+- LinkedIn: [Ananthakrishnan K S](https://www.linkedin.com/in/ananthakrishnan-ks-/)
 
 ---
 
 <div align="center">
+
+> **Build with curiosity. Break with purpose. Learn with discipline. Share with clarity.**
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=ananthakrishnanks347-maker&label=PROFILE+VIEWS&color=00ffd5&style=for-the-badge" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d5b5,35:014f5f,70:07111f,100:02040f&height=130&section=footer" />
 
 </div>
