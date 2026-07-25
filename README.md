@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:02040f,20:07111f,40:0b1f2a,70:014f5f,100:00d5b5&height=300&section=header&text=ANANTHAKRISHNAN%20K%20S&fontSize=52&fontColor=eafffb&fontAlignY=35&desc=Cybersecurity%20Learner%20%7C%20Offensive%20Security%20Journey%20%7C%20Python%20%2B%20Linux&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:02040f,18:07111f,38:0b1f2a,68:014f5f,100:00d5b5&height=320&section=header&text=ANANTHAKRISHNAN%20K%20S&fontSize=54&fontColor=eafffb&fontAlignY=36&desc=Cybersecurity%20Learner%20%7C%20Offensive%20Security%20Journey%20%7C%20Python%20%2B%20Linux&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00FFD5&center=true&vCenter=true&width=980&lines=%3E+booting+operator+profile...;%3E+loading+labs%2C+writeups%2C+and+tooling...;%3E+network+enumeration+%7C+web+security+%7C+linux;%3E+learning+through+hands-on+practice;%3E+crafting+a+profile+that+shows+real+progress" />
 
 <br>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" alt="Cyber animation">
 
 <br><br>
 
@@ -20,12 +20,6 @@
   <img src="https://img.shields.io/badge/GitHub-07111f?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=030712" />
 </a>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=1200&color=7FFFE1&center=true&vCenter=true&width=980&height=110&lines=root%40lab%3A~%23+whoami;ananthakrishnan;root%40lab%3A~%23+python3+recon.py;discovering+hosts...;enumerating+services...;building+notes...;status%3A+learn+%2F+build+%2F+document" />
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket.gif" width="45" align="right">
-
 </div>
 
 ---
@@ -38,7 +32,7 @@
 
 ## 👨‍💻 Identity
 
-I'm a cybersecurity learner focused on practical skills, hands-on labs, and steady improvement.
+I’m a cybersecurity learner focused on practical skills, hands-on labs, and steady improvement.  
 My current direction is offensive security, Linux workflows, Python automation, and learning by doing.
 
 </td>
@@ -46,12 +40,12 @@ My current direction is offensive security, Linux workflows, Python automation, 
 
 ## 🎯 Current Focus
 
-- 🌐 Network enumeration
-- 🕸️ Web exploitation fundamentals
-- 🐧 Linux and Bash scripting
-- 🐍 Python-based helper tools
-- 🔓 Privilege escalation practice
-- 📝 Writeups and learning notes
+- Network enumeration.
+- Web exploitation fundamentals.
+- Linux and Bash scripting.
+- Python-based helper tools.
+- Privilege escalation practice.
+- Writeups and learning notes.
 
 </td>
 </tr>
@@ -59,7 +53,7 @@ My current direction is offensive security, Linux workflows, Python automation, 
 
 ---
 
-# ` MISSION TRACK `
+# ` MISSION STATUS `
 
 ```text
 [✓] Build more public learning projects
@@ -67,10 +61,13 @@ My current direction is offensive security, Linux workflows, Python automation, 
 [✓] Create cleaner GitHub presentation
 [ ] Publish more writeups and notes
 [ ] Strengthen offensive security foundations
+[ ] Ship stronger Python automation tools
 ```
 
 <div align="center">
-<img src="https://progress-bar.xyz/60?title=Overall%20Progress&width=500&color=00d5b5&suffix=%25" />
+
+<img src="https://progress-bar.xyz/68?title=Overall%20Progress&width=520&color=00d5b5&suffix=%25" alt="Progress bar">
+
 </div>
 
 ---
@@ -95,37 +92,32 @@ My current direction is offensive security, Linux workflows, Python automation, 
 
 ---
 
-# ` LIVE METRICS `
+# ` PROOF OF WORK `
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/main/stats.svg" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthakrishnanks347-maker&theme=dark&background=07111f&stroke=014f5f&ring=00ffd5&fire=ff4d6d&currStreakLabel=00ffd5&sideLabels=eafffb&dates=7FFFE1&cache_seconds=86400" width="49%" />
+### Featured projects
 
-<br>
+- Recon helper scripts for faster enumeration.
+- Lab writeups with notes and methodology.
+- Bash utilities for terminal workflow.
+- Web security notes and practice cases.
 
-<img src="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/main/top-langs.svg" width="49%" />
-<img src="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/main/trophy.svg" width="49%" />
+</td>
+<td width="50%" valign="top">
 
-</div>
+### Public learning path
 
----
+- TryHackMe progress and notes.
+- Python experiments for security tasks.
+- Linux escalation practice.
+- Documentation-first learning workflow.
 
-# ` ACTIVITY GRAPH `
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananthakrishnanks347-maker&theme=react-dark&bg_color=07111f&color=00ffd5&line=45c7ff&point=eafffb&hide_border=true" width="100%">
-</div>
-
----
-
-# ` CONTRIBUTION SNAKE `
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/output/github-contribution-grid-snake-dark.svg" width="100%">
-
-<sub>⚙️ powered by the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — add the workflow to your profile repo to keep this snake alive and eating your contribution graph</sub>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -136,25 +128,25 @@ My current direction is offensive security, Linux workflows, Python automation, 
 <td width="33%" valign="top">
 
 ## 🐍 Python
-- Small helper scripts
-- Automation workflows
-- Security experiments
+- Small helper scripts.
+- Automation workflows.
+- Security experiments.
 
 </td>
 <td width="33%" valign="top">
 
 ## 🐧 Linux
-- Terminal-first workflow
-- Bash scripting
-- System exploration
+- Terminal-first workflow.
+- Bash scripting.
+- System exploration.
 
 </td>
 <td width="33%" valign="top">
 
 ## 🛡️ Security
-- Labs and writeups
-- Enumeration practice
-- Learning offensive techniques
+- Labs and writeups.
+- Enumeration practice.
+- Learning offensive techniques.
 
 </td>
 </tr>
@@ -166,7 +158,7 @@ My current direction is offensive security, Linux workflows, Python automation, 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=00FFD5&center=true&width=980&lines=Alan+Turing:+%22Those+who+can+imagine+anything,+can+create+the+impossible.%22;Grace+Hopper:+%22The+most+dangerous+phrase+is+'We've+always+done+it+this+way.'%22;Linus+Torvalds:+%22Talk+is+cheap.+Show+me+the+code.%22;Dennis+Ritchie:+%22UNIX+is+simple.+It+just+takes+a+genius+to+understand+its+simplicity.%22;Tim+Berners-Lee:+%22The+Web+does+not+just+connect+machines,+it+connects+people.%22;Steve+Jobs:+%22Innovation+distinguishes+between+a+leader+and+a+follower.%22;Bill+Gates:+%22Your+most+unhappy+customers+are+your+greatest+source+of+learning.%22;Albert+Einstein:+%22Imagination+is+more+important+than+knowledge.%22;Elon+Musk:+%22When+something+is+important+enough,+you+do+it+even+if+the+odds+are+not+in+your+favor.%22;Nikola+Tesla:+%22The+present+is+theirs;+the+future,+for+which+I+really+worked,+is+mine.%22" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=00FFD5&center=true&width=980&lines=Alan+Turing:+%22Those+who+can+imagine+anything,+can+create+the+impossible.%22;Grace+Hopper:+%22The+most+dangerous+phrase+is+'We've+always+done+it+this+way.'%22;Linus+Torvalds:+%22Talk+is+cheap.+Show+me+the+code.%22;Dennis+Ritchie:+%22UNIX+is+simple.+It+just+takes+a+genius+to+understand+its+simplicity.%22;Tim+Berners-Lee:+%22The+Web+does+not+just+connect+machines,+it+connects+people.%22;Steve+Jobs:+%22Innovation+distinguishes+between+a+leader+and+a+follower.%22;Bill+Gates:+%22Your+most+unhappy+customers+are+your+greatest+source+of+learning.%22;Albert+Einstein:+%22Imagination+is+more+important+than+knowledge.%22;Nikola+Tesla:+%22The+present+is+theirs;+the+future,+for+which+I+really+worked,+is+mine.%22" />
 
 </div>
 
