@@ -1,60 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0b3d91,100:1b5fad&height=190&section=header&text=DRAWING%20NO.%20AKS-001&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=OPERATOR%20PROFILE%20%E2%80%94%20OFFENSIVE%20SECURITY%20SCHEMATIC&descAlignY=62&descSize=13&descColor=cfe3ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:3a8dde,50:6fb1e8,100:cfe9ff&height=200&section=header&text=TODAY'S%20FORECAST%3A%20ANANTHAKRISHNAN%20K%20S&fontSize=24&fontColor=ffffff&fontAlignY=38&desc=Skies%20clearing%20over%20offensive%20security%2C%20high%20chance%20of%20new%20labs&descAlignY=62&descSize=14&descColor=eef7ff&animation=fadeIn" width="100%"/>
 
 </div>
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
-<td width="25%"><sub>DRAWN BY</sub><br><b>A. Krishnan K S</b></td>
-<td width="25%"><sub>SCALE</sub><br><b>1 : ongoing</b></td>
-<td width="25%"><sub>SHEET</sub><br><b>1 of 5</b></td>
-<td width="25%"><sub>REV</sub><br><b>2026.07</b></td>
+<td align="center" width="20%">☁️<br><sub>CONDITIONS</sub><br><b>Curious, mild chaos</b></td>
+<td align="center" width="20%">🌡️<br><sub>FOCUS LEVEL</sub><br><b>High, rising</b></td>
+<td align="center" width="20%">💨<br><sub>WIND</sub><br><b>Steady, from Linux</b></td>
+<td align="center" width="20%">📈<br><sub>PRESSURE</sub><br><b>Building (deadlines)</b></td>
+<td align="center" width="20%">☂️<br><sub>ADVISORY</sub><br><b>Bring patience</b></td>
 </tr>
 </table>
 
 ---
 
-### ⌗ 01 — GENERAL NOTES
+### 🌤️ TODAY'S BRIEFING
 
-```
-1. This profile is a working drawing, not a finished structure.
-2. All skill levels are approximate and subject to revision.
-3. Tolerances are generous — subject is still calibrating.
-4. Do not scale drawing for exact XP values. Refer to stats below.
-```
+Broadcasting from a small home lab: a cybersecurity learner tracking
+a slow-moving front of curiosity, currently centered over network
+enumeration and web exploitation fundamentals, with scattered Python
+scripting expected throughout the week. Linux and Bash remain the
+dominant climate — no sign of that changing.
 
-A cybersecurity learner's profile, drafted like a technical sheet
-because "neat and structured" is how the subject actually thinks.
-Core load-bearing interests: network enumeration, web exploitation
-fundamentals, Linux systems, and Python tooling — everything else
-is scaffolding built around those four members.
+Viewers should expect occasional squalls of failed exploits,
+followed by clear skies once the bug is finally found.
 
 ---
 
-### ⌗ 02 — STRUCTURAL DIAGRAM (FOCUS AREAS)
+### 📡 RADAR — ACTIVITY THIS WEEK
 
-```
-                     ┌─────────────────────┐
-                     │   OFFENSIVE SEC      │
-                     │   (main support beam)│
-                     └──────────┬──────────┘
-              ┌──────────────────┼──────────────────┐
-              │                  │                  │
-     ┌────────┴───────┐ ┌───────┴────────┐ ┌───────┴────────┐
-     │ Network Enum    │ │  Web Exploit   │ │  Linux / Bash  │
-     │ column: A-1     │ │  column: A-2   │ │  column: A-3   │
-     └────────┬────────┘ └───────┬────────┘ └───────┬────────┘
-              └──────────────────┼──────────────────┘
-                     ┌──────────┴──────────┐
-                     │   Python Tooling      │
-                     │   (foundation slab)   │
-                     └───────────────────────┘
-```
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananthakrishnanks347-maker&theme=react-dark&bg_color=eef7ff&color=3a8dde&line=1c5d99&point=0b3d63&hide_border=true" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<sub>storm-tracking the contribution graph, day by day</sub>
+</div>
 
 ---
 
-### ⌗ 03 — MATERIALS LIST (TOOLCHAIN)
+### 🧭 CURRENT SYSTEMS (SKILLS IN THE ATMOSPHERE)
+
+| System | Type | Movement |
+|---|---|:---:|
+| Network Enumeration | High-pressure interest | ⬆️ intensifying |
+| Web Exploitation Fundamentals | Developing system | ⬆️ intensifying |
+| Linux & Bash | Permanent climate | ➡️ steady |
+| Python Tooling | Frontal activity | ⬆️ intensifying |
+| Privilege Escalation | Forming low | 🔄 watch this space |
+| Writeups & Notes | Light drizzle | 🔄 watch this space |
 
 <div align="center">
 
@@ -62,64 +59,46 @@ is scaffolding built around those four members.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Nmap-0b3d91?style=flat-square&color=cfe3ff&labelColor=0b3d91"/>
-<img src="https://img.shields.io/badge/Wireshark-0b3d91?style=flat-square&logo=wireshark&logoColor=cfe3ff&labelColor=0b3d91"/>
-<img src="https://img.shields.io/badge/Burp_Suite-0b3d91?style=flat-square&logo=burpsuite&logoColor=cfe3ff&labelColor=0b3d91"/>
-<img src="https://img.shields.io/badge/Metasploit-0b3d91?style=flat-square&logo=metasploit&logoColor=cfe3ff&labelColor=0b3d91"/>
-<img src="https://img.shields.io/badge/TryHackMe-0b3d91?style=flat-square&logo=tryhackme&logoColor=cfe3ff&labelColor=0b3d91"/>
+<img src="https://img.shields.io/badge/Nmap-eef7ff?style=flat-square&color=1c5d99"/>
+<img src="https://img.shields.io/badge/Wireshark-eef7ff?style=flat-square&logo=wireshark&logoColor=1c5d99&labelColor=eef7ff"/>
+<img src="https://img.shields.io/badge/Burp_Suite-eef7ff?style=flat-square&logo=burpsuite&logoColor=1c5d99&labelColor=eef7ff"/>
+<img src="https://img.shields.io/badge/Metasploit-eef7ff?style=flat-square&logo=metasploit&logoColor=1c5d99&labelColor=eef7ff"/>
+<img src="https://img.shields.io/badge/TryHackMe-eef7ff?style=flat-square&logo=tryhackme&logoColor=1c5d99&labelColor=eef7ff"/>
 
-</div>
-
-| Item No. | Component | Spec |
-|:---:|---|---|
-| M-01 | Python | general fabrication, automation |
-| M-02 | Bash / Linux | primary working environment |
-| M-03 | Git / GitHub | version control, load history |
-| M-04 | VS Code | drafting table |
-
----
-
-### ⌗ 04 — MEASUREMENTS (LIVE READOUT)
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=cobalt&hide_border=true&bg_color=0b3d91&title_color=ffffff&icon_color=cfe3ff&text_color=cfe3ff" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthakrishnanks347-maker&theme=cobalt&background=0b3d91&stroke=1b5fad&ring=ffffff&fire=cfe3ff&currStreakLabel=ffffff&sideLabels=cfe3ff" width="49%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananthakrishnanks347-maker&theme=react-dark&bg_color=0b3d91&color=cfe3ff&line=ffffff&point=ffffff&hide_border=true" width="100%"/>
 </div>
 
 ---
 
-### ⌗ 05 — REVISION HISTORY
+### 📊 STATION READINGS
 
-| Rev | Change | Status |
-|:---:|---|:---:|
-| A | Build more public learning projects | ✅ approved |
-| B | Improve practical recon workflow | ✅ approved |
-| C | Create cleaner GitHub presentation | ✅ approved |
-| D | Publish more writeups and notes | 🔄 in review |
-| E | Strengthen offensive security foundations | 🔄 in review |
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=default&hide_border=true&bg_color=eef7ff&title_color=1c5d99&icon_color=3a8dde&text_color=0b3d63" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthakrishnanks347-maker&theme=default&background=eef7ff&stroke=cfe9ff&ring=3a8dde&fire=ff9d4d&currStreakLabel=1c5d99&sideLabels=0b3d63" width="49%"/>
+</div>
+
+---
+
+### 📅 5-DAY OUTLOOK (ROADMAP)
 
 ```
-COMPLETION: [██████████████░░░░░░░░] 60%
+MON  build more public learning projects .......... ☀️ cleared
+TUE  improve practical recon workflow .............. ☀️ cleared
+WED  create cleaner GitHub presentation ............ ☀️ cleared
+THU  publish more writeups and notes ............... 🌦️ forming
+FRI  strengthen offensive security foundations ..... 🌦️ forming
+
+week outlook: [██████████████░░░░░░░░] 60% clear skies
 ```
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-<sub>daily load log</sub>
-</div>
-
 ---
 
-### ⌗ 06 — TITLE BLOCK / CONTACT
+### 📻 BROADCAST CHANNELS
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-0b3d91?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0b3d91)](https://github.com/ananthakrishnanks347-maker)
-[![TryHackMe](https://img.shields.io/badge/TRYHACKME-0b3d91?style=for-the-badge&logo=tryhackme&logoColor=ffffff&labelColor=0b3d91)](https://tryhackme.com/p/Ananthakrishnank.s)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0b3d91?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0b3d91)](https://www.linkedin.com/in/ananthakrishnan-ks-/)
+[![GitHub](https://img.shields.io/badge/GITHUB-1c5d99?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1c5d99)](https://github.com/ananthakrishnanks347-maker)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-1c5d99?style=for-the-badge&logo=tryhackme&logoColor=ffffff&labelColor=1c5d99)](https://tryhackme.com/p/Ananthakrishnank.s)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1c5d99?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=1c5d99)](https://www.linkedin.com/in/ananthakrishnan-ks-/)
 
 </div>
 
@@ -127,14 +106,16 @@ COMPLETION: [██████████████░░░░░░░░]
 
 <div align="center">
 
-<sub>"Build with curiosity. Break with purpose. Learn with discipline. Share with clarity."</sub>
+<sub>☁️ "Build with curiosity. Break with purpose. Learn with discipline. Share with clarity."</sub>
 <br>
-<sub>— design philosophy, stamped in the margin</sub>
+<sub>— station motto, painted on the weather tower</sub>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ananthakrishnanks347-maker&label=DRAWING+VIEWS&color=1b5fad&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=ananthakrishnanks347-maker&label=VIEWERS+TUNED+IN&color=cfe9ff&style=for-the-badge"/>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1b5fad,100:0b3d91&height=90&section=footer"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:cfe9ff,50:6fb1e8,100:3a8dde&height=100&section=footer"/>
 
 </div>
