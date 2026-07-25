@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:02040f,18:05101a,38:0a1d28,68:014f5f,100:00d5b5&height=290&section=header&text=ANANTHAKRISHNAN%20K%20S&fontSize=52&fontColor=eafffb&fontAlignY=37&desc=Cybersecurity%20Learner%20%7C%20Offensive%20Security%20Journey%20%7C%20Python%20%2B%20Linux&descAlignY=57&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:02040f,15:05101a,35:091a25,60:0a3440,82:016b73,100:00e0c2&height=300&section=header&text=ANANTHAKRISHNAN%20K%20S&fontSize=54&fontColor=eafffb&fontAlignY=37&desc=Cybersecurity%20Learner%20%7C%20Offensive%20Security%20Journey%20%7C%20Python%20%2B%20Linux&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=1000&color=00FFD5&center=true&vCenter=true&width=980&lines=%3E+booting+operator+profile...;%3E+loading+labs%2C+writeups%2C+and+tooling...;%3E+network+enumeration+%7C+web+security+%7C+linux;%3E+learning+through+hands-on+practice;%3E+building+proof+through+projects+and+notes" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00FFD5&center=true&vCenter=true&width=1000&lines=%3E+booting+operator+profile...;%3E+loading+labs%2C+writeups%2C+and+tooling...;%3E+recon+%7C+web+security+%7C+linux+%7C+automation;%3E+learning+through+hands-on+practice;%3E+building+proof+through+projects+and+documentation" />
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/ananthakrishnan-ks-/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-07111f?style=for-the-badge&logo=linkedin&logoColor=00ffd5&labelColor=030712" />
@@ -24,63 +24,65 @@
 
 </div>
 
----
+***
 
-# ` operator.init()`
+# ` OPERATOR PROFILE `
 
 ```bash
 root@lab:~# whoami
 Ananthakrishnan K S
 
-root@lab:~# cat profile.role
+root@lab:~# cat role.txt
 Cybersecurity Learner
 
-root@lab:~# cat current_path
+root@lab:~# cat focus.txt
 Offensive Security | Linux | Python | Web Security | Recon
 
-root@lab:~# cat mindset.txt
+root@lab:~# cat philosophy.txt
 Learn deeply. Practice consistently. Document clearly. Improve publicly.
 ```
 
-I’m a cybersecurity learner focused on practical skill-building through labs, writeups, and small hands-on projects.  
-My current path is centered on offensive security foundations, Linux workflows, Python automation, and building public proof of progress.
+I’m a cybersecurity learner focused on practical skill-building through labs, writeups, and small real-world projects.
+My current direction is offensive security, Linux workflows, Python automation, and creating visible proof of progress through public documentation.
 
----
+***
 
-# ` mission.track`
+# ` MISSION CONTROL `
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ## 🎯 Current Focus
+
 - Network enumeration
 - Web exploitation fundamentals
 - Linux and Bash scripting
 - Python helper tools
 - Privilege escalation practice
-- Writeups and learning notes
+- Writeups and structured learning notes
 
 </td>
 <td width="50%" valign="top">
 
-## 📌 Active Goals
+## 📌 Mission Track
+
 ```text
 [✓] Improve GitHub presentation
 [✓] Build public learning projects
-[✓] Strengthen recon workflow
-[ ] Publish more writeups
-[ ] Create better security tools
-[ ] Deepen offensive security fundamentals
+[✓] Strengthen practical recon workflow
+[ ] Publish more writeups and notes
+[ ] Create better Python security tools
+[ ] Deepen offensive security foundations
 ```
 
 </td>
 </tr>
 </table>
 
----
+***
 
-# ` toolkit.matrix`
+# ` TOOLCHAIN MATRIX `
 
 <div align="center">
 
@@ -98,28 +100,32 @@ My current path is centered on offensive security foundations, Linux workflows, 
 
 </div>
 
----
+***
 
-# ` proof.of.work`
+# ` PROOF OF WORK `
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ## 🔬 Labs
-- TryHackMe practice rooms
-- Enumeration-focused exercises
-- Linux privilege escalation practice
-- Web security learning labs
+
+- TryHackMe rooms and guided practice
+- Enumeration-first workflow exercises
+- Linux privilege escalation labs
+- Web application security fundamentals
+- Repeatable note-taking and documentation habits
 
 </td>
 <td width="50%" valign="top">
 
 ## 🛠️ Projects
-- Python helper scripts
-- Bash workflow utilities
-- Recon note templates
-- Public learning repositories
+
+- Python helper scripts for small tasks
+- Bash utilities for terminal workflow
+- Recon checklists and learning templates
+- Public repositories for notes and progress
+- Documentation built around practical learning
 
 </td>
 </tr>
@@ -130,16 +136,16 @@ My current path is centered on offensive security foundations, Linux workflows, 
 <td width="33%" valign="top">
 
 ### 🐍 Python
+- Automation workflows
 - Small helper scripts
-- Automation experiments
-- Security-focused practice
+- Security learning experiments
 
 </td>
 <td width="33%" valign="top">
 
 ### 🐧 Linux
 - Terminal-first workflow
-- Bash scripting
+- Bash scripting practice
 - System exploration and tooling
 
 </td>
@@ -147,17 +153,105 @@ My current path is centered on offensive security foundations, Linux workflows, 
 
 ### 🛡️ Security
 - Labs and writeups
-- Enumeration workflow
-- Offensive security learning path
+- Recon methodology
+- Offensive learning path
 
 </td>
 </tr>
 </table>
 
----
+***
 
-# ` featured.paths`
+# ` FEATURED PATHS `
 
 - **GitHub Profile**: [ananthakrishnanks347-maker](https://github.com/ananthakrishnanks347-maker)
 - **TryHackMe**: [Ananthakrishnank.s](https://tryhackme.com/p/Ananthakrishnank.s)
-- **LinkedIn**: [Ananthakrishnan 
+- **LinkedIn**: [Ananthakrishnan K S](https://www.linkedin.com/in/ananthakrishnan-ks-/)
+
+***
+
+# ` PINNED OPERATIONS `
+
+<p align="center">
+  <a href="https://github.com/ananthakrishnanks347-maker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananthakrishnanks347-maker&repo=REPO-NAME-1&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ffd5&text_color=c9fdf5" />
+  </a>
+  <a href="https://github.com/ananthakrishnanks347-maker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananthakrishnanks347-maker&repo=REPO-NAME-2&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ffd5&text_color=c9fdf5" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ananthakrishnanks347-maker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananthakrishnanks347-maker&repo=REPO-NAME-3&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ffd5&text_color=c9fdf5" />
+  </a>
+  <a href="https://github.com/ananthakrishnanks347-maker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananthakrishnanks347-maker&repo=REPO-NAME-4&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ffd5&text_color=c9fdf5" />
+  </a>
+</p>
+
+> Replace `REPO-NAME-1` to `REPO-NAME-4` with your best repositories for the final live version.
+
+***
+
+# ` GITHUB TELEMETRY `
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ffd5&icon_color=00ffd5&text_color=c9fdf5" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishnanks347-maker&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ffd5&text_color=c9fdf5" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ananthakrishnanks347-maker&theme=tokyonight&hide_border=true&background=00000000&stroke=00ffd5&ring=00ffd5&fire=ff4d6d&currStreakLabel=00ffd5" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ananthakrishnanks347-maker&theme=algolia&no-frame=true&no-bg=true&margin-w=12&title=Followers,Stars,Commit,Repositories,PullRequest,Issues" />
+
+</div>
+
+***
+
+# ` ACTIVE LOADOUT `
+
+```yaml
+learning_model:
+  method:
+    - learn
+    - practice
+    - build
+    - document
+    - improve
+
+current_interests:
+  - network enumeration
+  - web security
+  - linux workflows
+  - python automation
+  - offensive security fundamentals
+
+next_targets:
+  - publish more writeups
+  - improve project documentation
+  - build stronger helper tools
+  - show clearer practical progress
+```
+
+***
+
+# ` SIGNAL `
+
+<div align="center">
+
+> **Build with curiosity. Break with purpose. Learn with discipline. Share with clarity.**
+
+</div>
+
+***
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d5b5,35:016b73,68:07111f,100:02040f&height=130&section=footer" />
+
+</div>
