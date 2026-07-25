@@ -99,12 +99,12 @@ My current direction is offensive security, Linux workflows, Python automation, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=chartreuse-dark&bg_color=07111f&title_color=00ffd5&icon_color=45c7ff&text_color=eafffb&border_color=014f5f&hide_border=false&count_private=true&cache_seconds=86400" width="49%" />
+<img src="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/main/stats.svg" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthakrishnanks347-maker&theme=dark&background=07111f&stroke=014f5f&ring=00ffd5&fire=ff4d6d&currStreakLabel=00ffd5&sideLabels=eafffb&dates=7FFFE1&cache_seconds=86400" width="49%" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishnanks347-maker&layout=compact&theme=chartreuse-dark&bg_color=07111f&title_color=00ffd5&text_color=eafffb&border_color=014f5f&hide_border=false&cache_seconds=86400" width="49%" />
+<img src="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/main/top-langs.svg" width="49%" />
 <img src="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/main/trophy.svg" width="49%" />
 
 </div>
