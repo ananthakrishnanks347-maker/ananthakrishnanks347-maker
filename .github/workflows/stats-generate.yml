@@ -1,0 +1,42 @@
+name: Generate Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  stats:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: 'username=ananthakrishnanks347-maker&show_icons=true&theme=chartreuse-dark&bg_color=07111f&title_color=00ffd5&icon_color=45c7ff&text_color=eafffb&border_color=014f5f&hide_border=false&count_private=true'
+          path: stats.svg
+          token: ${{ secrets.TROPHY_TOKEN }}
+
+      - name: Generate top languages card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: 'username=ananthakrishnanks347-maker&layout=compact&theme=chartreuse-dark&bg_color=07111f&title_color=00ffd5&text_color=eafffb&border_color=014f5f&hide_border=false'
+          path: top-langs.svg
+          token: ${{ secrets.TROPHY_TOKEN }}
+
+      - name: Commit and push cards
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats.svg top-langs.svg
+          git diff --staged --quiet || git commit -m "chore: update stats cards"
+          git push
