@@ -1,121 +1,125 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,25:3d1e6d,60:6b2fb3,100:ff6ac1&height=230&section=header&text=ANANTHAKRISHNAN%20K%20S&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Lv.%20Learner%20%E2%80%94%20Class%3A%20Ethical%20Hacker%20%28in%20training%29&descAlignY=58&descSize=16&descColor=f0d9ff&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1000&color=C77DFF&center=true&vCenter=true&width=900&lines=A+wild+PROFILE+README+appeared!;selected+move%3A+SHOW+GITHUB+STATS;it's+super+effective!;press+START+to+continue..." />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0b3d91,100:1b5fad&height=190&section=header&text=DRAWING%20NO.%20AKS-001&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=OPERATOR%20PROFILE%20%E2%80%94%20OFFENSIVE%20SECURITY%20SCHEMATIC&descAlignY=62&descSize=13&descColor=cfe3ff&animation=fadeIn" width="100%"/>
 
 </div>
 
-<br>
+<table width="100%">
+<tr>
+<td width="25%"><sub>DRAWN BY</sub><br><b>A. Krishnan K S</b></td>
+<td width="25%"><sub>SCALE</sub><br><b>1 : ongoing</b></td>
+<td width="25%"><sub>SHEET</sub><br><b>1 of 5</b></td>
+<td width="25%"><sub>REV</sub><br><b>2026.07</b></td>
+</tr>
+</table>
+
+---
+
+### ⌗ 01 — GENERAL NOTES
+
+```
+1. This profile is a working drawing, not a finished structure.
+2. All skill levels are approximate and subject to revision.
+3. Tolerances are generous — subject is still calibrating.
+4. Do not scale drawing for exact XP values. Refer to stats below.
+```
+
+A cybersecurity learner's profile, drafted like a technical sheet
+because "neat and structured" is how the subject actually thinks.
+Core load-bearing interests: network enumeration, web exploitation
+fundamentals, Linux systems, and Python tooling — everything else
+is scaffolding built around those four members.
+
+---
+
+### ⌗ 02 — STRUCTURAL DIAGRAM (FOCUS AREAS)
+
+```
+                     ┌─────────────────────┐
+                     │   OFFENSIVE SEC      │
+                     │   (main support beam)│
+                     └──────────┬──────────┘
+              ┌──────────────────┼──────────────────┐
+              │                  │                  │
+     ┌────────┴───────┐ ┌───────┴────────┐ ┌───────┴────────┐
+     │ Network Enum    │ │  Web Exploit   │ │  Linux / Bash  │
+     │ column: A-1     │ │  column: A-2   │ │  column: A-3   │
+     └────────┬────────┘ └───────┬────────┘ └───────┬────────┘
+              └──────────────────┼──────────────────┘
+                     ┌──────────┴──────────┐
+                     │   Python Tooling      │
+                     │   (foundation slab)   │
+                     └───────────────────────┘
+```
+
+---
+
+### ⌗ 03 — MATERIALS LIST (TOOLCHAIN)
 
 <div align="center">
 
-### 🎮 CHARACTER SHEET
-
-| STR (Persistence) | INT (Curiosity) | DEX (Debugging) | LUK (Lab RNG) |
-|:---:|:---:|:---:|:---:|
-| ▓▓▓▓▓▓▓▓░░ 80 | ▓▓▓▓▓▓▓▓▓░ 90 | ▓▓▓▓▓▓░░░░ 60 | ▓▓▓░░░░░░░ 30 |
-
-</div>
-
----
-
-### 📜 CLASS DESCRIPTION
-
-A learner-class character who chose the **Offensive Security** path
-at the crossroads. Spends most play sessions in the Linux Terminal
-dungeon, farming XP through network enumeration mobs and web
-exploitation mini-bosses. Known to respawn immediately after a
-failed exploit attempt — no rage-quits logged to date.
-
-**Main hand:** Python 🐍 &nbsp; | &nbsp; **Off hand:** Bash 🐧 &nbsp; | &nbsp; **Guild:** TryHackMe
-
----
-
-### 🌳 SKILL TREE
-
-```
-                     [ Offensive Security ]
-                             │
-        ┌────────────┬───────┴───────┬────────────┐
-        │            │               │            │
-  Network-Enum   Web-Exploit    Privilege-Esc   Writeups
-   ●●●●●○○○○○     ●●●●○○○○○○     ●●●○○○○○○○     ●●○○○○○○○○
-     unlocked       unlocked      in progress    early access
-```
-
-<details>
-<summary><b>▸ view passive skills</b></summary>
-<br>
-
-- 🐍 **Script Smith** — turns repetitive tasks into small Python tools
-- 🐧 **Terminal Native** — thinks in Bash before thinking in English
-- 📝 **Lore Keeper** — documents every lab, win or loss
-- 🔁 **Fast Respawn** — back at it minutes after a failed attempt
-
-</details>
-
----
-
-### 🎒 INVENTORY
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,html,css&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,html,css&theme=light&perline=8"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Nmap-1a0b2e?style=for-the-badge&labelColor=1a0b2e&color=c77dff"/>
-<img src="https://img.shields.io/badge/Wireshark-1a0b2e?style=for-the-badge&logo=wireshark&logoColor=ff6ac1&labelColor=1a0b2e"/>
-<img src="https://img.shields.io/badge/Burp_Suite-1a0b2e?style=for-the-badge&logo=burpsuite&logoColor=ffb703&labelColor=1a0b2e"/>
-<img src="https://img.shields.io/badge/Metasploit-1a0b2e?style=for-the-badge&logo=metasploit&logoColor=6acbff&labelColor=1a0b2e"/>
-<img src="https://img.shields.io/badge/TryHackMe-1a0b2e?style=for-the-badge&logo=tryhackme&logoColor=ff4d6d&labelColor=1a0b2e"/>
+<img src="https://img.shields.io/badge/Nmap-0b3d91?style=flat-square&color=cfe3ff&labelColor=0b3d91"/>
+<img src="https://img.shields.io/badge/Wireshark-0b3d91?style=flat-square&logo=wireshark&logoColor=cfe3ff&labelColor=0b3d91"/>
+<img src="https://img.shields.io/badge/Burp_Suite-0b3d91?style=flat-square&logo=burpsuite&logoColor=cfe3ff&labelColor=0b3d91"/>
+<img src="https://img.shields.io/badge/Metasploit-0b3d91?style=flat-square&logo=metasploit&logoColor=cfe3ff&labelColor=0b3d91"/>
+<img src="https://img.shields.io/badge/TryHackMe-0b3d91?style=flat-square&logo=tryhackme&logoColor=cfe3ff&labelColor=0b3d91"/>
 
-*equip a badge to see its tooltip (results may vary)*
+</div>
 
+| Item No. | Component | Spec |
+|:---:|---|---|
+| M-01 | Python | general fabrication, automation |
+| M-02 | Bash / Linux | primary working environment |
+| M-03 | Git / GitHub | version control, load history |
+| M-04 | VS Code | drafting table |
+
+---
+
+### ⌗ 04 — MEASUREMENTS (LIVE READOUT)
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=cobalt&hide_border=true&bg_color=0b3d91&title_color=ffffff&icon_color=cfe3ff&text_color=cfe3ff" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthakrishnanks347-maker&theme=cobalt&background=0b3d91&stroke=1b5fad&ring=ffffff&fire=cfe3ff&currStreakLabel=ffffff&sideLabels=cfe3ff" width="49%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananthakrishnanks347-maker&theme=react-dark&bg_color=0b3d91&color=cfe3ff&line=ffffff&point=ffffff&hide_border=true" width="100%"/>
 </div>
 
 ---
 
-### 📊 STAT SCREEN
+### ⌗ 05 — REVISION HISTORY
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ananthakrishnanks347-maker&show_icons=true&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=ff6ac1&icon_color=c77dff&text_color=f0d9ff" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthakrishnanks347-maker&theme=radical&background=1a0b2e&stroke=3d1e6d&ring=ff6ac1&fire=ffb703&currStreakLabel=c77dff&sideLabels=f0d9ff" width="49%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananthakrishnanks347-maker&theme=react-dark&bg_color=1a0b2e&color=c77dff&line=ff6ac1&point=ffffff&hide_border=true" width="100%"/>
-</div>
-
----
-
-### 🗺️ QUEST LOG
+| Rev | Change | Status |
+|:---:|---|:---:|
+| A | Build more public learning projects | ✅ approved |
+| B | Improve practical recon workflow | ✅ approved |
+| C | Create cleaner GitHub presentation | ✅ approved |
+| D | Publish more writeups and notes | 🔄 in review |
+| E | Strengthen offensive security foundations | 🔄 in review |
 
 ```
-[✓] Build more public learning projects ......... COMPLETE  (+50 XP)
-[✓] Improve practical recon workflow ............ COMPLETE  (+50 XP)
-[✓] Create cleaner GitHub presentation .......... COMPLETE  (+80 XP)
-[ ] Publish more writeups and notes ............. ACTIVE    (+100 XP)
-[ ] Strengthen offensive security foundations ... ACTIVE    (+150 XP)
-
-Level progress: [██████████████████░░░░░░░░░░░░] 60% to next level
+COMPLETION: [██████████████░░░░░░░░] 60%
 ```
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-<sub>daily grind log — eating the contribution graph one commit at a time</sub>
+<sub>daily load log</sub>
 </div>
 
 ---
 
-### 🤝 GUILD ROSTER (find me here)
+### ⌗ 06 — TITLE BLOCK / CONTACT
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-1a0b2e?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a0b2e)](https://github.com/ananthakrishnanks347-maker)
-[![TryHackMe](https://img.shields.io/badge/TRYHACKME-1a0b2e?style=for-the-badge&logo=tryhackme&logoColor=ff4d6d&labelColor=1a0b2e)](https://tryhackme.com/p/Ananthakrishnank.s)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1a0b2e?style=for-the-badge&logo=linkedin&logoColor=6acbff&labelColor=1a0b2e)](https://www.linkedin.com/in/ananthakrishnan-ks-/)
+[![GitHub](https://img.shields.io/badge/GITHUB-0b3d91?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0b3d91)](https://github.com/ananthakrishnanks347-maker)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-0b3d91?style=for-the-badge&logo=tryhackme&logoColor=ffffff&labelColor=0b3d91)](https://tryhackme.com/p/Ananthakrishnank.s)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0b3d91?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0b3d91)](https://www.linkedin.com/in/ananthakrishnan-ks-/)
 
 </div>
 
@@ -123,16 +127,14 @@ Level progress: [██████████████████░░░
 
 <div align="center">
 
-<sub>💬 "Build with curiosity. Break with purpose. Learn with discipline. Share with clarity."</sub>
+<sub>"Build with curiosity. Break with purpose. Learn with discipline. Share with clarity."</sub>
 <br>
-<sub>— pinned quest-giver dialogue</sub>
+<sub>— design philosophy, stamped in the margin</sub>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ananthakrishnanks347-maker&label=NPCs+WHO+VISITED&color=3d1e6d&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ananthakrishnanks347-maker&label=DRAWING+VIEWS&color=1b5fad&style=flat-square"/>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ac1,60:3d1e6d,100:1a0b2e&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1b5fad,100:0b3d91&height=90&section=footer"/>
 
 </div>
