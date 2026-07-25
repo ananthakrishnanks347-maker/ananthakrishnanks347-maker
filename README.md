@@ -105,7 +105,7 @@ My current direction is offensive security, Linux workflows, Python automation, 
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishnanks347-maker&layout=compact&theme=chartreuse-dark&bg_color=07111f&title_color=00ffd5&text_color=eafffb&border_color=014f5f&hide_border=false&cache_seconds=86400" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=ananthakrishnanks347-maker&theme=algolia&no-frame=true&column=3&margin-w=8&margin-h=8" width="49%" />
+<img src="https://raw.githubusercontent.com/ananthakrishnanks347-maker/ananthakrishnanks347-maker/main/trophy.svg" width="49%" />
 
 </div>
 
