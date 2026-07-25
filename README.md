@@ -24,9 +24,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=1200&color=7FFFE1&center=true&vCenter=true&width=980&height=110&lines=root%40lab%3A~%23+whoami;ananthakrishnan;root%40lab%3A~%23+python3+recon.py;discovering+hosts...;enumerating+services...;building+notes...;status%3A+learn+%2F+build+%2F+document" />
 
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket.gif" width="45" align="right" />
+
 </div>
 
-***
+---
 
 # ` OPERATOR CONSOLE `
 
@@ -55,9 +57,9 @@ My current direction is offensive security, Linux workflows, Python automation, 
 </tr>
 </table>
 
-***
+---
 
-# ` MISSION STATUS `
+# ` MISSION TRACK `
 
 ```text
 [✓] Build more public learning projects
@@ -72,7 +74,7 @@ My current direction is offensive security, Linux workflows, Python automation, 
 <img src="https://progress-bar.xyz/68?title=Overall%20Progress&width=520&color=00d5b5&suffix=%25" alt="Overall progress" />
 </div>
 
-***
+---
 
 # ` TOOLCHAIN MATRIX `
 
@@ -92,7 +94,7 @@ My current direction is offensive security, Linux workflows, Python automation, 
 
 </div>
 
-***
+---
 
 # ` LIVE METRICS `
 
@@ -108,7 +110,7 @@ My current direction is offensive security, Linux workflows, Python automation, 
 
 </div>
 
-***
+---
 
 # ` ACTIVITY GRAPH `
 
@@ -116,7 +118,7 @@ My current direction is offensive security, Linux workflows, Python automation, 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananthakrishnanks347-maker&theme=react-dark&bg_color=07111f&color=00ffd5&line=45c7ff&point=eafffb&hide_border=true" width="100%" />
 </div>
 
-***
+---
 
 # ` CONTRIBUTION SNAKE `
 
@@ -126,7 +128,7 @@ My current direction is offensive security, Linux workflows, Python automation, 
 <sub>⚙️ Powered by the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action.</sub>
 </div>
 
-***
+---
 
 # ` PROOF OF WORK `
 
@@ -136,26 +138,28 @@ My current direction is offensive security, Linux workflows, Python automation, 
 
 ## 🧪 Lab Progress
 
-- Hands-on TryHackMe learning path
-- Enumeration-first lab workflow
-- Linux privilege escalation practice
-- Web security fundamentals in active study
+- Hands-on TryHackMe learning path.
+- Enumeration-first lab workflow.
+- Linux privilege escalation practice.
+- Web security fundamentals in active study.
+- Daily notes, screenshots, and writeups.
 
 </td>
 <td width="50%" valign="top">
 
 ## 📂 Public Work
 
-- Learning projects published on GitHub
-- Security notes and writeups in progress
-- Python helpers for automation workflows
-- Bash-based terminal practice and tooling
+- Learning projects published on GitHub.
+- Security notes and writeups in progress.
+- Python helpers for automation workflows.
+- Bash-based terminal practice and tooling.
+- Small tools with real utility.
 
 </td>
 </tr>
 </table>
 
-***
+---
 
 # ` ACTIVE LOADOUT `
 
@@ -188,7 +192,7 @@ My current direction is offensive security, Linux workflows, Python automation, 
 </tr>
 </table>
 
-***
+---
 
 # ` SIGNAL QUOTES `
 
@@ -198,25 +202,25 @@ My current direction is offensive security, Linux workflows, Python automation, 
 
 </div>
 
-***
+---
 
 # ` FEATURED PATHS `
 
 <div align="center">
 
-[
-[
-[
+[![GitHub](https://img.shields.io/badge/Explore_GitHub-07111f?style=for-the-badge&logo=github&logoColor=00ffd5)](https://github.com/ananthakrishnanks347-maker)
+[![TryHackMe](https://img.shields.io/badge/View_TryHackMe-07111f?style=for-the-badge&logo=tryhackme&logoColor=ff4d6d)](https://tryhackme.com/p/Ananthakrishnank.s)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-07111f?style=for-the-badge&logo=linkedin&logoColor=45c7ff)](https://www.linkedin.com/in/ananthakrishnan-ks-/)
 
 </div>
 
-***
+---
 
 # ` PERSONAL PHILOSOPHY `
 
 > Build with curiosity. Break with purpose. Learn with discipline. Share with clarity.
 
-***
+---
 
 <div align="center">
 
